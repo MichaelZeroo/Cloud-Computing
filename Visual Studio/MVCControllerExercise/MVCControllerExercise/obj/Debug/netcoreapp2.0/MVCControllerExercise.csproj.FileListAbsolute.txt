@@ -1,0 +1,11 @@
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\MVCControllerExercise\MVCControllerExercise\bin\Debug\netcoreapp2.0\MVCControllerExercise.deps.json
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\MVCControllerExercise\MVCControllerExercise\bin\Debug\netcoreapp2.0\MVCControllerExercise.runtimeconfig.json
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\MVCControllerExercise\MVCControllerExercise\bin\Debug\netcoreapp2.0\MVCControllerExercise.runtimeconfig.dev.json
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\MVCControllerExercise\MVCControllerExercise\bin\Debug\netcoreapp2.0\MVCControllerExercise.dll
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\MVCControllerExercise\MVCControllerExercise\obj\Debug\netcoreapp2.0\MVCControllerExercise.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\MVCControllerExercise\MVCControllerExercise\obj\Debug\netcoreapp2.0\MVCControllerExercise.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\MVCControllerExercise\MVCControllerExercise\obj\Debug\netcoreapp2.0\MVCControllerExercise.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\MVCControllerExercise\MVCControllerExercise\obj\Debug\netcoreapp2.0\MVCControllerExercise.AssemblyInfo.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\MVCControllerExercise\MVCControllerExercise\bin\Debug\netcoreapp2.0\MVCControllerExercise.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\MVCControllerExercise\MVCControllerExercise\obj\Debug\netcoreapp2.0\MVCControllerExercise.dll
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\MVCControllerExercise\MVCControllerExercise\obj\Debug\netcoreapp2.0\MVCControllerExercise.pdb

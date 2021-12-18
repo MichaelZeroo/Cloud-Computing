@@ -1,0 +1,52 @@
+﻿@page "/"
+
+<pre style="font-size: 14pt">
+
+UK Health Emergency - person check
+
+Gender? (m/f)          : <input type="text" bind="@gender" autofocus />
+
+Age of person (Years)  : <input type="number" bind="@age" />
+
+Years on waiting list? : <input type="number" bind="@wait" />
+
+                         <button onclick="@Process">Submit</button>
+
+                         <textarea bind="@result" rows="6"></textarea>             
+
+</pre>
+
+@functions {
+    string gender = "";
+    string result = "";
+    string age = "";
+    string wait = "";
+
+    void Process() {
+        if (gender.ToLower() == "f") {
+            result = "Female person confirmed. Now moving to the next step.";
+        } else {
+            result = "Not a female person. Run again to check the next person.";
+            //reset values
+            gender = "";
+            age = "";
+            wait = "";
+            return;
+        }
+
+        //User input is string data. Convert age and wait to type int (integer)
+        int ageInt = int.Parse(age);
+        int waitInt = int.Parse(wait);
+
+        if (ageInt >= 68 + waitInt && ageInt <= 71 + waitInt) {
+            result = "This person is in the high risk category. ";
+            result += "You need to make an urgent doctor's appointment for her.";
+        } else {
+            result = "This person is not in the high risk category. ";
+            result += "Run this program again to check the next person.";
+        }
+
+        return;
+    }
+
+}

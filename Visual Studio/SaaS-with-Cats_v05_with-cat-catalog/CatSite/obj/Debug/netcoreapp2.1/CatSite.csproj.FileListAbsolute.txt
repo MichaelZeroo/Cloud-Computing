@@ -1,0 +1,42 @@
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v04_MorePages\CatSite\bin\Debug\netcoreapp2.1\CatSite.deps.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v04_MorePages\CatSite\bin\Debug\netcoreapp2.1\CatSite.runtimeconfig.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v04_MorePages\CatSite\bin\Debug\netcoreapp2.1\CatSite.runtimeconfig.dev.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v04_MorePages\CatSite\bin\Debug\netcoreapp2.1\CatSite.dll
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v04_MorePages\CatSite\bin\Debug\netcoreapp2.1\CatSite.pdb
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v04_MorePages\CatSite\obj\Debug\netcoreapp2.1\CatSite.csprojAssemblyReference.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v04_MorePages\CatSite\obj\Debug\netcoreapp2.1\CatSite.csproj.CoreCompileInputs.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v04_MorePages\CatSite\obj\Debug\netcoreapp2.1\CatSite.RazorAssemblyInfo.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v04_MorePages\CatSite\obj\Debug\netcoreapp2.1\CatSite.RazorAssemblyInfo.cs
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v04_MorePages\CatSite\obj\Debug\netcoreapp2.1\CatSite.AssemblyInfoInputs.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v04_MorePages\CatSite\obj\Debug\netcoreapp2.1\CatSite.AssemblyInfo.cs
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v04_MorePages\CatSite\obj\Debug\netcoreapp2.1\CatSite.RazorTargetAssemblyInfo.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v04_MorePages\CatSite\obj\Debug\netcoreapp2.1\CatSite.dll
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v04_MorePages\CatSite\obj\Debug\netcoreapp2.1\CatSite.pdb
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v05_with-cat-catalog\CatSite\bin\Debug\netcoreapp2.1\CatSite.deps.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v05_with-cat-catalog\CatSite\bin\Debug\netcoreapp2.1\CatSite.runtimeconfig.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v05_with-cat-catalog\CatSite\bin\Debug\netcoreapp2.1\CatSite.runtimeconfig.dev.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v05_with-cat-catalog\CatSite\bin\Debug\netcoreapp2.1\CatSite.dll
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v05_with-cat-catalog\CatSite\bin\Debug\netcoreapp2.1\CatSite.pdb
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v05_with-cat-catalog\CatSite\obj\Debug\netcoreapp2.1\CatSite.csprojAssemblyReference.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v05_with-cat-catalog\CatSite\obj\Debug\netcoreapp2.1\CatSite.csproj.CoreCompileInputs.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v05_with-cat-catalog\CatSite\obj\Debug\netcoreapp2.1\CatSite.RazorAssemblyInfo.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v05_with-cat-catalog\CatSite\obj\Debug\netcoreapp2.1\CatSite.RazorAssemblyInfo.cs
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v05_with-cat-catalog\CatSite\obj\Debug\netcoreapp2.1\CatSite.AssemblyInfoInputs.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v05_with-cat-catalog\CatSite\obj\Debug\netcoreapp2.1\CatSite.AssemblyInfo.cs
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v05_with-cat-catalog\CatSite\obj\Debug\netcoreapp2.1\CatSite.RazorTargetAssemblyInfo.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v05_with-cat-catalog\CatSite\obj\Debug\netcoreapp2.1\CatSite.dll
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v05_with-cat-catalog\CatSite\obj\Debug\netcoreapp2.1\CatSite.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS-with-Cats_v05_with-cat-catalog\CatSite\bin\Debug\netcoreapp2.1\CatSite.deps.json
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS-with-Cats_v05_with-cat-catalog\CatSite\bin\Debug\netcoreapp2.1\CatSite.runtimeconfig.json
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS-with-Cats_v05_with-cat-catalog\CatSite\bin\Debug\netcoreapp2.1\CatSite.runtimeconfig.dev.json
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS-with-Cats_v05_with-cat-catalog\CatSite\bin\Debug\netcoreapp2.1\CatSite.dll
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS-with-Cats_v05_with-cat-catalog\CatSite\bin\Debug\netcoreapp2.1\CatSite.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS-with-Cats_v05_with-cat-catalog\CatSite\obj\Debug\netcoreapp2.1\CatSite.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS-with-Cats_v05_with-cat-catalog\CatSite\obj\Debug\netcoreapp2.1\CatSite.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS-with-Cats_v05_with-cat-catalog\CatSite\obj\Debug\netcoreapp2.1\CatSite.RazorAssemblyInfo.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS-with-Cats_v05_with-cat-catalog\CatSite\obj\Debug\netcoreapp2.1\CatSite.RazorAssemblyInfo.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS-with-Cats_v05_with-cat-catalog\CatSite\obj\Debug\netcoreapp2.1\CatSite.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS-with-Cats_v05_with-cat-catalog\CatSite\obj\Debug\netcoreapp2.1\CatSite.AssemblyInfo.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS-with-Cats_v05_with-cat-catalog\CatSite\obj\Debug\netcoreapp2.1\CatSite.RazorTargetAssemblyInfo.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS-with-Cats_v05_with-cat-catalog\CatSite\obj\Debug\netcoreapp2.1\CatSite.dll
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS-with-Cats_v05_with-cat-catalog\CatSite\obj\Debug\netcoreapp2.1\CatSite.pdb

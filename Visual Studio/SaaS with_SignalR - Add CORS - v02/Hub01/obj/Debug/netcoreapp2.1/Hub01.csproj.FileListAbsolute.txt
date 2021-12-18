@@ -1,0 +1,46 @@
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\Hub01\bin\Debug\netcoreapp2.1\Hub01.deps.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\Hub01\bin\Debug\netcoreapp2.1\Hub01.runtimeconfig.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\Hub01\bin\Debug\netcoreapp2.1\Hub01.runtimeconfig.dev.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\Hub01\bin\Debug\netcoreapp2.1\Hub01.dll
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\Hub01\bin\Debug\netcoreapp2.1\Hub01.pdb
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\Hub01\bin\Debug\netcoreapp2.1\Hub01.Views.dll
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\Hub01\bin\Debug\netcoreapp2.1\Hub01.Views.pdb
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\Hub01\obj\Debug\netcoreapp2.1\Hub01.csprojAssemblyReference.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\Hub01\obj\Debug\netcoreapp2.1\Hub01.csproj.CoreCompileInputs.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\Hub01\obj\Debug\netcoreapp2.1\Hub01.RazorAssemblyInfo.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\Hub01\obj\Debug\netcoreapp2.1\Hub01.RazorAssemblyInfo.cs
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\Hub01\obj\Debug\netcoreapp2.1\Hub01.AssemblyInfoInputs.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\Hub01\obj\Debug\netcoreapp2.1\Hub01.AssemblyInfo.cs
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\Hub01\obj\Debug\netcoreapp2.1\Hub01.TagHelpers.input.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\Hub01\obj\Debug\netcoreapp2.1\Hub01.TagHelpers.output.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\Hub01\obj\Debug\netcoreapp2.1\Hub01.RazorCoreGenerate.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\Hub01\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\Hub01\obj\Debug\netcoreapp2.1\Hub01.RazorTargetAssemblyInfo.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\Hub01\obj\Debug\netcoreapp2.1\Hub01.RazorTargetAssemblyInfo.cs
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\Hub01\obj\Debug\netcoreapp2.1\Hub01.Views.pdb
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\Hub01\obj\Debug\netcoreapp2.1\Hub01.dll
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\Hub01\obj\Debug\netcoreapp2.1\Hub01.pdb
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\Hub01\obj\Debug\netcoreapp2.1\Hub01.csproj.CopyComplete
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS with_SignalR - Add CORS - v02\Hub01\bin\Debug\netcoreapp2.1\Hub01.deps.json
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS with_SignalR - Add CORS - v02\Hub01\bin\Debug\netcoreapp2.1\Hub01.runtimeconfig.json
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS with_SignalR - Add CORS - v02\Hub01\bin\Debug\netcoreapp2.1\Hub01.runtimeconfig.dev.json
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS with_SignalR - Add CORS - v02\Hub01\bin\Debug\netcoreapp2.1\Hub01.dll
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS with_SignalR - Add CORS - v02\Hub01\bin\Debug\netcoreapp2.1\Hub01.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS with_SignalR - Add CORS - v02\Hub01\bin\Debug\netcoreapp2.1\Hub01.Views.dll
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS with_SignalR - Add CORS - v02\Hub01\bin\Debug\netcoreapp2.1\Hub01.Views.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS with_SignalR - Add CORS - v02\Hub01\obj\Debug\netcoreapp2.1\Hub01.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS with_SignalR - Add CORS - v02\Hub01\obj\Debug\netcoreapp2.1\Hub01.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS with_SignalR - Add CORS - v02\Hub01\obj\Debug\netcoreapp2.1\Hub01.RazorAssemblyInfo.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS with_SignalR - Add CORS - v02\Hub01\obj\Debug\netcoreapp2.1\Hub01.RazorAssemblyInfo.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS with_SignalR - Add CORS - v02\Hub01\obj\Debug\netcoreapp2.1\Hub01.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS with_SignalR - Add CORS - v02\Hub01\obj\Debug\netcoreapp2.1\Hub01.AssemblyInfo.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS with_SignalR - Add CORS - v02\Hub01\obj\Debug\netcoreapp2.1\Hub01.TagHelpers.input.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS with_SignalR - Add CORS - v02\Hub01\obj\Debug\netcoreapp2.1\Hub01.TagHelpers.output.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS with_SignalR - Add CORS - v02\Hub01\obj\Debug\netcoreapp2.1\Hub01.RazorCoreGenerate.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS with_SignalR - Add CORS - v02\Hub01\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS with_SignalR - Add CORS - v02\Hub01\obj\Debug\netcoreapp2.1\Hub01.RazorTargetAssemblyInfo.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS with_SignalR - Add CORS - v02\Hub01\obj\Debug\netcoreapp2.1\Hub01.RazorTargetAssemblyInfo.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS with_SignalR - Add CORS - v02\Hub01\obj\Debug\netcoreapp2.1\Hub01.Views.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS with_SignalR - Add CORS - v02\Hub01\obj\Debug\netcoreapp2.1\Hub01.dll
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS with_SignalR - Add CORS - v02\Hub01\obj\Debug\netcoreapp2.1\Hub01.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS with_SignalR - Add CORS - v02\Hub01\obj\Debug\netcoreapp2.1\Hub01.csproj.CopyComplete

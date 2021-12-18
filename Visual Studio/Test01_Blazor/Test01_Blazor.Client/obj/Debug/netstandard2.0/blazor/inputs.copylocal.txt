@@ -1,0 +1,5 @@
+C:\Users\jcalder\.nuget\packages\microsoft.aspnetcore.blazor\0.4.0\lib\netstandard2.0\Microsoft.AspNetCore.Blazor.dll
+C:\Users\jcalder\.nuget\packages\microsoft.aspnetcore.blazor.browser\0.4.0\lib\netstandard2.0\Microsoft.AspNetCore.Blazor.Browser.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.extensions.dependencyinjection\2.0.0\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.extensions.dependencyinjection.abstractions\2.0.0\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Shared\bin\Debug\netstandard2.0\Test01_Blazor.Shared.dll

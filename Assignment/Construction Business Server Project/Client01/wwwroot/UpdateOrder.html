@@ -1,0 +1,166 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>UpdateOrderDetails</title>
+    <link href="css/site.css" rel="stylesheet" />
+
+    <script>
+        //AJAX!  refs
+        //https://www.w3schools.com/xml/ajax_xmlhttprequest_send.asp
+        //https://www.w3schools.com/js/js_ajax_http.asp
+        var xmlhttp = new XMLHttpRequest();
+
+        //20180825 JPC Initialise event behaviours
+        window.onload = function () {
+
+            //setup AJAX
+            xmlhttp.onreadystatechange = function () {
+                ajaxCallback();
+            };
+
+            var url = window.location.href.toString();
+            if (url.indexOf("?") > -1) {
+                //We have a cat to edit
+                var orderId = url.split("?")[1].split("=")[1];
+                //alert("CatId = " + catId);
+                xmlhttp.open("GET", "https://localhost:44361/AccountingService/GetOrder?OrderId=" + orderId, true);
+                xmlhttp.send();
+            }
+
+
+            //stop the classic form submission process, then run our process
+            document.getElementById("Form1").addEventListener("submit", function (event) {
+                event.preventDefault();
+                xprocess();
+            });
+        }
+
+        function xprocess() {
+            //20180820 JPC Collect form data as JSON
+            //Note that this has potential to be reusable code that with some more work
+            //could process a wide range of forms
+            var jsonObject = new Object();
+            //jsonObject["Test"] = "abcde";
+            var oeForm = document.getElementById("Form1");
+            var n = oeForm.elements.length;
+            for (var i = 0; i < n; i++) {
+                //case of new data entry where field is empty,
+                //keep CatId out of the JSON
+                if (oeForm.elements[i].name.toLowerCase() == "orderid"
+                    && oeForm.elements[i].value == "") continue;
+                //skip the Submit button as an element
+                if (oeForm.elements[i].type.toLowerCase() == "submit") continue;
+                //set object name and value value
+                jsonObject[oeForm.elements[i].name] = oeForm.elements[i].value;
+            }
+            var jsonString = "json=" + JSON.stringify(jsonObject);
+            //alert(jsonString);
+
+            //send to server
+            //this is the async+post version of AJAX
+
+                requestString = "https://localhost:44361/AccountingService/PostUpdateOrder";
+
+            xmlhttp.open("POST", requestString, true);
+            xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+            xmlhttp.send(jsonString);
+        }
+
+        function ajaxCallback() {
+            if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                var response = xmlhttp.responseText;
+                alert(response + ", " + xmlhttp.status + " - " + xmlhttp.statusText);
+                if (response.indexOf("{") > -1 && response.toLowerCase().indexOf("orderid") > -1) {
+                    var jsonObject = JSON.parse(response);
+                    var keys = Object.keys(jsonObject)
+                    for (var i = 0; i < keys.length; i++) {
+                        alert("keys[i] = " + keys[i]);
+                        try {
+                            document.getElementById(keys[i]).value = jsonObject[keys[i]];
+                        } catch (err) {
+                            alert(err.message);
+                        }
+                    }
+                }
+
+            }
+        }
+    </script>
+
+
+</head>
+<body>
+    <div id="outerDiv">
+        <nav id="menu"></nav>
+
+        <h1>Update Order</h1>
+        <h3>Update the Shipped Date, Status and Comments</h3>
+        <form method="post" action="" id="Form1">
+            <div class="xrow">
+                <div class="col3">Order Id:</div>
+                <div class="col3">
+                    <input type="text" id="OrderId" name="OrderId" value="" readonly />
+                </div>
+            </div>
+
+            <div class="xrow">
+                <div class="col3">Order Date:</div>
+                <div class="col3">
+                    <input type="text" id="OrderDate" name="OrderDate" readonly />
+                </div>
+            </div>
+
+            <div class="xrow">
+                <div class="col3">Delivery Date:</div>
+                <div class="col3">
+                    <input type="text" id="DeliveryDate" name="DeliveryDate" />
+                </div>
+            </div>
+
+            <div class="xrow">
+                <div class="col3">Shipped Date:</div>
+                <div class="col3">
+                    <input type="text" id="ShippedDate" name="ShippedDate" required />
+                </div>
+            </div>
+
+            <div class="xrow">
+                <div class="col3">Status:</div>
+                <div class="col3">
+                    <input type="text" id="Status" name="Status" required />
+                </div>
+            </div>
+
+            <div class="xrow">
+                <div class="col3">Comments:</div>
+                <div class="col3">
+                    <input type="text" id="Comments" name="Comments" required />
+                </div>
+            </div>
+
+            <div class="xrow">
+                <div class="col3">Customer ID:</div>
+                <div class="col3">
+                    <input type="text" id="CustomerId" name="CustomerId" readonly />
+                </div>
+            </div>
+
+            <div class="xrow">
+                <div class="col3">&nbsp;</div>
+                <div class="col3">
+                    <input type="submit" value="Submit" />
+
+                </div>
+            </div>
+
+        </form>
+        <br />
+
+        <h1>This is a student project</h1>
+
+
+        <script src="js/site.js"></script>
+    </div>
+</body>
+</html>

@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="css/StyleSheet.css" rel="stylesheet" />
+
+    <script>
+        //AJAX gets JSON which parses to a table  ref:
+        //https://www.w3schools.com/js/js_json_html.asp
+
+        var xmlhttp = new XMLHttpRequest();
+
+        //20180825 JPC Initialise event behaviours
+        window.onload = function () {
+
+
+            //setup AJAX
+            xmlhttp.onreadystatechange = function () {
+                ajaxCallback();
+            };
+
+            //20180828 JPC this sends only the UserId to identify cats owned by the current user
+            //  TODO Admin version that shows all cats
+            xmlhttp.open("GET", "https://musicserver201809030943.azurewebsites.net/genres/getallgenres", true);
+            xmlhttp.send();
+        }
+
+        function ajaxCallback() {
+            if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                var messageObject = JSON.parse(xmlhttp.responseText);
+                var txt = "<table>";
+                txt += "<tr>";
+                //Extract the JSON keys as table headers
+                var keys = Object.keys(messageObject[0]);
+                for (var i = 0; i < keys.length; i++) {
+                    txt += "<th>" + keys[i] + "</th>";
+                }
+                txt += "</tr>";
+                for (var i = 0; i < messageObject.length; i++) {
+                    txt += "<tr>"
+                    //Note use of keys from above
+                    for (var j = 0; j < keys.length; j++) {
+                       txt += "<td>" + messageObject[i][keys[j]] + "</td>";
+                    }
+                    txt += "</tr>";
+                }
+                txt += "</table>";
+                document.getElementById("xdata").innerHTML = txt;
+            }
+        }
+    </script>
+</head>
+<body>
+    <div id="outerDiv">
+
+        <h1>Home Page for MusicStore Web Service</h1>
+
+        <div id="xdata" style="width:100%; min-height:80vh">
+
+        </div>
+
+        <p>
+            Contact Admin through our website to use this service.<br />
+            <a href="https://manukautech.info">https://musicstore.example.com/contact</a>
+        </p>
+    </div>
+</body>
+</html>

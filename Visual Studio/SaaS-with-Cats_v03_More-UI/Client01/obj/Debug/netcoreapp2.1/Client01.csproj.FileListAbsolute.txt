@@ -1,0 +1,56 @@
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS-with-Cats\Client01\bin\Debug\netcoreapp2.1\Client01.deps.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS-with-Cats\Client01\bin\Debug\netcoreapp2.1\Client01.runtimeconfig.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS-with-Cats\Client01\bin\Debug\netcoreapp2.1\Client01.runtimeconfig.dev.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS-with-Cats\Client01\bin\Debug\netcoreapp2.1\Client01.dll
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS-with-Cats\Client01\bin\Debug\netcoreapp2.1\Client01.pdb
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS-with-Cats\Client01\obj\Debug\netcoreapp2.1\Client01.csprojAssemblyReference.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS-with-Cats\Client01\obj\Debug\netcoreapp2.1\Client01.csproj.CoreCompileInputs.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS-with-Cats\Client01\obj\Debug\netcoreapp2.1\Client01.RazorAssemblyInfo.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS-with-Cats\Client01\obj\Debug\netcoreapp2.1\Client01.RazorAssemblyInfo.cs
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS-with-Cats\Client01\obj\Debug\netcoreapp2.1\Client01.AssemblyInfoInputs.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS-with-Cats\Client01\obj\Debug\netcoreapp2.1\Client01.AssemblyInfo.cs
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS-with-Cats\Client01\obj\Debug\netcoreapp2.1\Client01.RazorTargetAssemblyInfo.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS-with-Cats\Client01\obj\Debug\netcoreapp2.1\Client01.dll
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS-with-Cats\Client01\obj\Debug\netcoreapp2.1\Client01.pdb
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS-with-Cats_v02_Add-DB\Client01\bin\Debug\netcoreapp2.1\Client01.deps.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS-with-Cats_v02_Add-DB\Client01\bin\Debug\netcoreapp2.1\Client01.runtimeconfig.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS-with-Cats_v02_Add-DB\Client01\bin\Debug\netcoreapp2.1\Client01.runtimeconfig.dev.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS-with-Cats_v02_Add-DB\Client01\bin\Debug\netcoreapp2.1\Client01.dll
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS-with-Cats_v02_Add-DB\Client01\bin\Debug\netcoreapp2.1\Client01.pdb
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS-with-Cats_v02_Add-DB\Client01\obj\Debug\netcoreapp2.1\Client01.csprojAssemblyReference.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS-with-Cats_v02_Add-DB\Client01\obj\Debug\netcoreapp2.1\Client01.csproj.CoreCompileInputs.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS-with-Cats_v02_Add-DB\Client01\obj\Debug\netcoreapp2.1\Client01.RazorAssemblyInfo.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS-with-Cats_v02_Add-DB\Client01\obj\Debug\netcoreapp2.1\Client01.RazorAssemblyInfo.cs
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS-with-Cats_v02_Add-DB\Client01\obj\Debug\netcoreapp2.1\Client01.AssemblyInfoInputs.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS-with-Cats_v02_Add-DB\Client01\obj\Debug\netcoreapp2.1\Client01.AssemblyInfo.cs
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS-with-Cats_v02_Add-DB\Client01\obj\Debug\netcoreapp2.1\Client01.RazorTargetAssemblyInfo.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS-with-Cats_v02_Add-DB\Client01\obj\Debug\netcoreapp2.1\Client01.dll
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS-with-Cats_v02_Add-DB\Client01\obj\Debug\netcoreapp2.1\Client01.pdb
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v02_Add-DB\Client01\bin\Debug\netcoreapp2.1\Client01.deps.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v02_Add-DB\Client01\bin\Debug\netcoreapp2.1\Client01.runtimeconfig.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v02_Add-DB\Client01\bin\Debug\netcoreapp2.1\Client01.runtimeconfig.dev.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v02_Add-DB\Client01\bin\Debug\netcoreapp2.1\Client01.dll
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v02_Add-DB\Client01\bin\Debug\netcoreapp2.1\Client01.pdb
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v02_Add-DB\Client01\obj\Debug\netcoreapp2.1\Client01.csprojAssemblyReference.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v02_Add-DB\Client01\obj\Debug\netcoreapp2.1\Client01.csproj.CoreCompileInputs.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v02_Add-DB\Client01\obj\Debug\netcoreapp2.1\Client01.RazorAssemblyInfo.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v02_Add-DB\Client01\obj\Debug\netcoreapp2.1\Client01.RazorAssemblyInfo.cs
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v02_Add-DB\Client01\obj\Debug\netcoreapp2.1\Client01.AssemblyInfoInputs.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v02_Add-DB\Client01\obj\Debug\netcoreapp2.1\Client01.AssemblyInfo.cs
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v02_Add-DB\Client01\obj\Debug\netcoreapp2.1\Client01.RazorTargetAssemblyInfo.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v02_Add-DB\Client01\obj\Debug\netcoreapp2.1\Client01.dll
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week06\SaaS-with-Cats_v02_Add-DB\Client01\obj\Debug\netcoreapp2.1\Client01.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS-with-Cats_v03_More-UI\Client01\bin\Debug\netcoreapp2.1\Client01.deps.json
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS-with-Cats_v03_More-UI\Client01\bin\Debug\netcoreapp2.1\Client01.runtimeconfig.json
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS-with-Cats_v03_More-UI\Client01\bin\Debug\netcoreapp2.1\Client01.runtimeconfig.dev.json
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS-with-Cats_v03_More-UI\Client01\bin\Debug\netcoreapp2.1\Client01.dll
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS-with-Cats_v03_More-UI\Client01\bin\Debug\netcoreapp2.1\Client01.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS-with-Cats_v03_More-UI\Client01\obj\Debug\netcoreapp2.1\Client01.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS-with-Cats_v03_More-UI\Client01\obj\Debug\netcoreapp2.1\Client01.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS-with-Cats_v03_More-UI\Client01\obj\Debug\netcoreapp2.1\Client01.RazorAssemblyInfo.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS-with-Cats_v03_More-UI\Client01\obj\Debug\netcoreapp2.1\Client01.RazorAssemblyInfo.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS-with-Cats_v03_More-UI\Client01\obj\Debug\netcoreapp2.1\Client01.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS-with-Cats_v03_More-UI\Client01\obj\Debug\netcoreapp2.1\Client01.AssemblyInfo.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS-with-Cats_v03_More-UI\Client01\obj\Debug\netcoreapp2.1\Client01.RazorTargetAssemblyInfo.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS-with-Cats_v03_More-UI\Client01\obj\Debug\netcoreapp2.1\Client01.dll
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\SaaS-with-Cats_v03_More-UI\Client01\obj\Debug\netcoreapp2.1\Client01.pdb

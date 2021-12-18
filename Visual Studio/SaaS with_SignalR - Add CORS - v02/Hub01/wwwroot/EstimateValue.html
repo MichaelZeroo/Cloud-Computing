@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="css/site.css" rel="stylesheet" />
+
+</head>
+<body>
+    <div id="outerDiv">
+        <p>
+            <a href="Index.html">Index</a>&nbsp;
+            <a href="EstimateValue.html">Estimate-Value</a>&nbsp;
+        </p>
+        <h2>Test of Estimate Value</h2>
+        <h3></h3>
+        Request<br />
+        <textarea id="request" cols="70" rows="7">
+        {
+            "accessKey":"inVoice[22]",
+            "kilometres":81000,
+            "year":2009,
+            "mfrCode":"gd"
+        }  
+        </textarea><br />
+        <button onclick="send();">Submit</button><br /><br />
+        Response<br />
+        <textarea id="response" cols="70" rows="3"></textarea>
+    </div>
+
+    <script src="js/signalr.min.js"></script>
+
+    <script type="text/javascript">
+        const connection
+            = new signalR.HubConnectionBuilder().withUrl("/serverhub").build();
+
+        window.onload = function () {
+            try {
+                connection.start();
+                //alert("Connection Started");
+            } catch (err) {
+                alert("Error on first connection: " + err.message);
+            }
+        }
+
+        //receive from server
+        connection.on("XSignal", function(response) {
+            receive(response);
+        });
+
+        //send to server
+        function send() {
+            var request = document.getElementById("request").value;
+            connection.invoke("EstimatedValue", request);
+        }
+
+        function receive(response) {
+            document.getElementById("response").value = response;
+        }
+
+    </script>
+
+</body>
+</html >

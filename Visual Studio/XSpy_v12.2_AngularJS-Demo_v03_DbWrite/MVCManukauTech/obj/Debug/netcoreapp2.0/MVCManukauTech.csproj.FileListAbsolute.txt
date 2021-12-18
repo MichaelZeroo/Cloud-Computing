@@ -1,0 +1,132 @@
+C:\Temp\XSpy_v12.0_CoreMigration\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+C:\Temp\XSpy_v12.0_CoreMigration\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+C:\Temp\XSpy_v12.0_CoreMigration\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+C:\Temp\XSpy_v12.0_CoreMigration\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+C:\Temp\XSpy_v12.0_CoreMigration\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+C:\Temp\XSpy_v12.0_CoreMigration\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+C:\Temp\XSpy_v12.0_CoreMigration\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+C:\Temp\XSpy_v12.0_CoreMigration\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+C:\Temp\XSpy_v12.0_CoreMigration\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+C:\Temp\XSpy_v12.0_CoreMigration\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+C:\Temp\XSpy_v12.0_CoreMigration\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojResolveAssemblyReference.cache
+C:\Temp\XSpy_v12.0_CoreMigration\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojResolveAssemblyReference.cache
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojResolveAssemblyReference.cache
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojResolveAssemblyReference.cache
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Core\XSpy_v12.0_CoreMigration_Step04_RemoteDB\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.1_CoreMigration_With_Checkout\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.1_CoreMigration_With_Checkout\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.1_CoreMigration_With_Checkout\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.1_CoreMigration_With_Checkout\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.1_CoreMigration_With_Checkout\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.1_CoreMigration_With_Checkout\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojResolveAssemblyReference.cache
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.1_CoreMigration_With_Checkout\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.1_CoreMigration_With_Checkout\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.1_CoreMigration_With_Checkout\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.1_CoreMigration_With_Checkout\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.1_CoreMigration_With_Checkout\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.1_CoreMigration_With_Checkout\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.1_AngularJS-Demo\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.1_AngularJS-Demo\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.1_AngularJS-Demo\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.1_AngularJS-Demo\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.1_AngularJS-Demo\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.1_AngularJS-Demo\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojResolveAssemblyReference.cache
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.1_AngularJS-Demo\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.1_AngularJS-Demo\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.1_AngularJS-Demo\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.1_AngularJS-Demo\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.1_AngularJS-Demo\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.1_AngularJS-Demo\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojResolveAssemblyReference.cache
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojResolveAssemblyReference.cache
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued-2\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued-2\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued-2\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued-2\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued-2\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued-2\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojResolveAssemblyReference.cache
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued-2\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued-2\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued-2\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued-2\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued-2\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued-2\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued - v02\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued - v02\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued - v02\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued - v02\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued - v02\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued - v02\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojResolveAssemblyReference.cache
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued - v02\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued - v02\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued - v02\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued - v02\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued - v02\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week05_Core\XSpy_v12.2_AngularJS-Demo - Continued - v02\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\XSpy_v12.2_AngularJS-Demo_v03_DbWrite\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\XSpy_v12.2_AngularJS-Demo_v03_DbWrite\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\XSpy_v12.2_AngularJS-Demo_v03_DbWrite\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\XSpy_v12.2_AngularJS-Demo_v03_DbWrite\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\XSpy_v12.2_AngularJS-Demo_v03_DbWrite\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\XSpy_v12.2_AngularJS-Demo_v03_DbWrite\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\XSpy_v12.2_AngularJS-Demo_v03_DbWrite\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\XSpy_v12.2_AngularJS-Demo_v03_DbWrite\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\XSpy_v12.2_AngularJS-Demo_v03_DbWrite\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\XSpy_v12.2_AngularJS-Demo_v03_DbWrite\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\XSpy_v12.2_AngularJS-Demo_v03_DbWrite\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\XSpy_v12.2_AngularJS-Demo_v03_DbWrite\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb

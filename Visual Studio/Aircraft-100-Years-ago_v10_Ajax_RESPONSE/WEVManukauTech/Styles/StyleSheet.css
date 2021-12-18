@@ -1,0 +1,48 @@
+﻿* {
+    font-family: Verdana;
+    font-size: 0.5cm;
+}
+
+
+body {
+    background-color:lightgreen;
+}
+
+#menu, #outerDiv {
+    background-color:honeydew;
+}
+
+#outerDiv{
+    max-width:1200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    padding-left:20px;
+    min-height: 900px;
+}
+
+nav {
+    font-size: 1.3em;
+}
+
+.articleImage {
+    width:680px;
+}
+
+.col3 {
+    float:left;
+    width: 30%; 
+    padding-right:20px;
+}
+
+@media screen and (max-width:900px) {
+    .articleImage {
+        width: 95%;
+    }
+
+    .col3 {
+        width: 95%;
+    }
+
+}
+

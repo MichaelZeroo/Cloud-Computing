@@ -1,0 +1,28 @@
+D:\XTemp_183Q184Q\562.615_Cloud_H\Test02_Practice\DatabasePracticeQu-Starter\MusicServer\bin\Debug\netcoreapp2.1\MusicServer.deps.json
+D:\XTemp_183Q184Q\562.615_Cloud_H\Test02_Practice\DatabasePracticeQu-Starter\MusicServer\bin\Debug\netcoreapp2.1\MusicServer.runtimeconfig.json
+D:\XTemp_183Q184Q\562.615_Cloud_H\Test02_Practice\DatabasePracticeQu-Starter\MusicServer\bin\Debug\netcoreapp2.1\MusicServer.runtimeconfig.dev.json
+D:\XTemp_183Q184Q\562.615_Cloud_H\Test02_Practice\DatabasePracticeQu-Starter\MusicServer\bin\Debug\netcoreapp2.1\MusicServer.dll
+D:\XTemp_183Q184Q\562.615_Cloud_H\Test02_Practice\DatabasePracticeQu-Starter\MusicServer\bin\Debug\netcoreapp2.1\MusicServer.pdb
+D:\XTemp_183Q184Q\562.615_Cloud_H\Test02_Practice\DatabasePracticeQu-Starter\MusicServer\obj\Debug\netcoreapp2.1\MusicServer.csprojAssemblyReference.cache
+D:\XTemp_183Q184Q\562.615_Cloud_H\Test02_Practice\DatabasePracticeQu-Starter\MusicServer\obj\Debug\netcoreapp2.1\MusicServer.csproj.CoreCompileInputs.cache
+D:\XTemp_183Q184Q\562.615_Cloud_H\Test02_Practice\DatabasePracticeQu-Starter\MusicServer\obj\Debug\netcoreapp2.1\MusicServer.RazorAssemblyInfo.cache
+D:\XTemp_183Q184Q\562.615_Cloud_H\Test02_Practice\DatabasePracticeQu-Starter\MusicServer\obj\Debug\netcoreapp2.1\MusicServer.RazorAssemblyInfo.cs
+D:\XTemp_183Q184Q\562.615_Cloud_H\Test02_Practice\DatabasePracticeQu-Starter\MusicServer\obj\Debug\netcoreapp2.1\MusicServer.AssemblyInfoInputs.cache
+D:\XTemp_183Q184Q\562.615_Cloud_H\Test02_Practice\DatabasePracticeQu-Starter\MusicServer\obj\Debug\netcoreapp2.1\MusicServer.AssemblyInfo.cs
+D:\XTemp_183Q184Q\562.615_Cloud_H\Test02_Practice\DatabasePracticeQu-Starter\MusicServer\obj\Debug\netcoreapp2.1\MusicServer.RazorTargetAssemblyInfo.cache
+D:\XTemp_183Q184Q\562.615_Cloud_H\Test02_Practice\DatabasePracticeQu-Starter\MusicServer\obj\Debug\netcoreapp2.1\MusicServer.dll
+D:\XTemp_183Q184Q\562.615_Cloud_H\Test02_Practice\DatabasePracticeQu-Starter\MusicServer\obj\Debug\netcoreapp2.1\MusicServer.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Week 7\DatabasePracticeQu-Starter\MusicServer\bin\Debug\netcoreapp2.1\MusicServer.deps.json
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Week 7\DatabasePracticeQu-Starter\MusicServer\bin\Debug\netcoreapp2.1\MusicServer.runtimeconfig.json
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Week 7\DatabasePracticeQu-Starter\MusicServer\bin\Debug\netcoreapp2.1\MusicServer.runtimeconfig.dev.json
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Week 7\DatabasePracticeQu-Starter\MusicServer\bin\Debug\netcoreapp2.1\MusicServer.dll
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Week 7\DatabasePracticeQu-Starter\MusicServer\bin\Debug\netcoreapp2.1\MusicServer.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Week 7\DatabasePracticeQu-Starter\MusicServer\obj\Debug\netcoreapp2.1\MusicServer.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Week 7\DatabasePracticeQu-Starter\MusicServer\obj\Debug\netcoreapp2.1\MusicServer.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Week 7\DatabasePracticeQu-Starter\MusicServer\obj\Debug\netcoreapp2.1\MusicServer.RazorAssemblyInfo.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Week 7\DatabasePracticeQu-Starter\MusicServer\obj\Debug\netcoreapp2.1\MusicServer.RazorAssemblyInfo.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Week 7\DatabasePracticeQu-Starter\MusicServer\obj\Debug\netcoreapp2.1\MusicServer.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Week 7\DatabasePracticeQu-Starter\MusicServer\obj\Debug\netcoreapp2.1\MusicServer.AssemblyInfo.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Week 7\DatabasePracticeQu-Starter\MusicServer\obj\Debug\netcoreapp2.1\MusicServer.RazorTargetAssemblyInfo.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Week 7\DatabasePracticeQu-Starter\MusicServer\obj\Debug\netcoreapp2.1\MusicServer.dll
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Week 7\DatabasePracticeQu-Starter\MusicServer\obj\Debug\netcoreapp2.1\MusicServer.pdb

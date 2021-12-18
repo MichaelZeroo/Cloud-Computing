@@ -1,0 +1,145 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Registration</title>
+    <meta content="javascript" name="vs_defaultClientScript">
+    <meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema">
+    <link href="Styles/Site.css" rel="stylesheet" type="text/css" />
+
+</head>
+<body style="font-family:arial;background-color:#eaffff">
+    <script language='javascript' type='text/javascript'>
+    function check(input) {
+        if (input.value != document.getElementById('txtPassword').value) {
+            input.setCustomValidity('Password Must be Matching.');
+        } else {
+            // input is valid -- reset the error message
+            input.setCustomValidity('');
+        }
+    }
+    </script>
+
+
+    <div id="outerDiv" style="max-width:1160px;margin:auto;padding:5px;background-color:#ffffd0;min-height:95vh">
+        <!--120807 JPC  form element has metadata for communication with a web server. -->
+        <form method="post" action="https://wevmit01.azurewebsites.net/formtest.cshtml"
+              id="Form1">
+            <p id="pHeader" align="center" style="FONT-WEIGHT: bold; FONT-SIZE: 20pt; COLOR: navy">
+                New
+                Member Registration
+            </p>
+            <p></p>
+            <p><span id="lblFeedback"><font size="4"></font></span></p>
+            <p style="FONT-WEIGHT: bold; FONT-SIZE: medium" align="right">
+                <a href="login.aspx" id="A1">
+                    Back
+                    to Login
+                </a>
+            </p>
+
+            <!-- 120807 JPC - the new way for layout.  ul li for rows with CSS width of elements makes columns -->
+            <ul>
+                <li>
+                    <label class="colLeft">ID:</label>
+                    <div class="colRight">
+                        <span id="lblUsername"></span>
+                    </div>
+                </li>
+                <li>
+                    <label class="colLeft" id="lblFirstNames">First Names:</label>
+                    <div class="colRight">
+                        <input name="txtFirstNames" type="text" maxlength="50" id="txtFirstNames" autofocus required />
+
+                    </div>
+                </li>
+                <li>
+                    <label class="colLeft" id="lblLastName">Last Name:</label>
+                    <div class="colRight">
+                        <input name="txtLastName" type="text" maxlength="50" id="txtLastName" required />
+
+                    </div>
+                </li>
+                <li>
+                    <label class="colLeft" id="lblPassword">Password:</label>
+                    <div class="colRight">
+                        <input name="txtPassword" type="password" id="txtPassword" pattern=".{5,10}" required />
+
+                    </div>
+                </li>
+                <li>
+                    <label class="colLeft" id="lblReEnterPassword">Re-enter Password:</label>
+                    <div class="colRight">
+                        <input name="txtReEnterPassword" type="password" id="txtReEnterPassword" pattern=".{5,10}" oninput="check(this)" required />
+
+                    </div>
+                </li>
+                <li>
+                    <label class="colLeft" id="lblOrganisation">Organisation:</label>
+                    <div class="colRight">
+                        <input name="txtOrganisation" type="text" maxlength="50" id="txtOrganisation" required />
+
+                    </div>
+                </li>
+                <li>
+                    <label class="colLeft" id="lblOrganisationType">Organisation Type:</label>
+                    <div class="colRight">
+                        <input name="txtOrganisationType" type="text" maxlength="50" id="txtOrganisationType" required />
+
+                    </div>
+                </li>
+                <li>
+                    <label class="colLeft" id="lblPhone">Phone:</label>
+                    <div class="colRight">
+                        <input name="txtPhone" type="tel" maxlength="50" id="txtPhone" required />
+
+                    </div>
+                </li>
+                <li>
+                    <label class="colLeft" id="lblEmail">E-Mail:</label>
+                    <div class="colRight">
+                        <input name="txtEmail" type="email" maxlength="50" id="txtEmail" pattern="[a-z0-9!#$%&'*+/=?^_`{|}~.-]+@[a-z0-9-]+(\.[a-z0-9-]+)*" required />
+
+                    </div>
+                </li>
+                <li>
+                    <label class="colLeft" id="lblCity:">City:</label>
+                    <div class="colRight">
+                        <input name="txtCity" type="text" maxlength="50" id="txtCity" />&nbsp;(Optional)
+                    </div>
+                </li>
+                <li>
+                    <label class="colLeft" id="lblCountry">Country:</label>
+                    <div class="colRight">
+                        <input name="txtCountry" type="text" maxlength="50" id="txtCountry" />&nbsp;(Optional)
+                    </div>
+                </li>
+
+                <!-- Submit button and feedback message area -->
+                <li>
+                    <label class="colLeft" id="lblSubmit:">&nbsp;</label>
+                    <div class="colRight">
+                        <div id="lblRegisterConditions">In clicking on this Submit button, I agree to treat Members Area content as confidential.</div>
+                    </div>
+                </li>
+                <li>
+                    <label class="colLeft" id="lblSubmit:">&nbsp;</label>
+                    <div class="colRight">
+                        <input type="submit" name="btnSubmit" value="Submit" id="btnSubmit" />
+                    </div>
+                </li>
+
+                <li>
+                    <div style="clear:both">&nbsp;</div>
+                    <label class="colLeft" id="lblResponse">Response:</label>
+                    <div class="colRight">
+                        <div id="lblResponse"></div>
+                    </div>
+                </li>
+
+            </ul>
+
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,153 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Register</title>
+    <link href="css/StyleSheet.css" rel="stylesheet" />
+
+    <script>
+        //AJAX!  refs
+        //https://www.w3schools.com/xml/ajax_xmlhttprequest_send.asp
+        //https://www.w3schools.com/js/js_ajax_http.asp
+        var xmlhttp = new XMLHttpRequest();
+
+        //20180825 JPC Initialise event behaviours 
+        window.onload = function () {
+            //Check that we are not logged in
+            var cookieValue = getCookie("catbabysittinguser");
+            if (cookieValue != "") {
+                alert("You are already logged in. You do not need this page.");
+                window.location.replace("Index.html");
+            }
+
+            //setup AJAX
+            xmlhttp.onreadystatechange = function () {
+                ajaxCallback();
+            };
+
+            //stop the classic form submission process, then run our process
+            document.getElementById("Form1").addEventListener("submit", function (event) {
+                event.preventDefault();
+                xprocess();
+            });
+        }
+
+        function xprocess() {
+            //20180820 JPC Collect form data as JSON
+            //Note that this has potential to be reusable code that with some more work 
+            //could process a wide range of forms
+            var jsonObject = new Object();
+            //jsonObject["Test"] = "abcde";
+            var oeForm = document.getElementById("Form1");
+            var n = oeForm.elements.length;
+            for (var i = 0; i < n; i++) {
+                //skip the Submit button as an element 
+                if (oeForm.elements[i].type.toLowerCase() == "submit") continue;
+                //set object name and value value
+                jsonObject[oeForm.elements[i].name] = oeForm.elements[i].value;
+            }
+            var jsonString = "json=" + JSON.stringify(jsonObject);
+            //alert(jsonString);
+
+            //send to server
+            //this is the async+post version of AJAX
+            requestString = "/Members/Register";
+
+            xmlhttp.open("POST", requestString, true);
+            xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+            xmlhttp.send(jsonString);
+        }
+
+        function ajaxCallback() {
+            if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                alert(xmlhttp.responseText + ", " + xmlhttp.status + " - " + xmlhttp.statusText);
+            }
+        }
+
+        function check(oe) {
+            if (oe.value != document.getElementById("Password").value) {
+                oe.setCustomValidity("Password Must be Matching.");
+            } else {
+                // input is valid -- reset the error message
+                oe.setCustomValidity("");
+            }
+        }
+    </script>
+
+</head>
+<body style="background-color:wheat">
+
+    <div id="outerDiv" style="background-color:beige">
+        <nav id="menu"></nav>
+        <form method="post" action="" id="Form1">
+
+            <div class="xrow">
+                <h1>Cat Babysitting Services</h1>
+                <h2 align="center" style="font-weight: bold; font-size: 20pt; color: navy">
+                    New Human Cat Owner Registration
+                </h2>
+                <p></p>
+                <p><span id="lblFeedback"></span></p>
+            </div>
+
+            <div class="xrow">
+                <div class="col3">First Names:</div>
+                <div class="col3">
+                    <input name="FirstNames" type="text" maxlength="50" id="FirstNames" autofocus required />
+                </div>
+            </div>
+
+            <div class="xrow">
+                <div class="col3">LastName:</div>
+                <div class="col3">
+                    <input name="LastName" type="text" maxlength="50" id="LastName" autofocus required />
+                </div>
+            </div>
+
+            <div class="xrow">
+                <div class="col3">Password</div>
+                <div class="col3">
+                    <input name="Password" type="password" id="Password" required />
+                </div>
+            </div>
+
+            <div class="xrow">
+                <div class="col3">Re-enter Password:</div>
+                <div class="col3">
+                    <!--20180822 JPC no name for this to keep it out of the form collection-->
+                    <input type="password" id="ReEnterPassword" oninput="check(this);" required />
+                </div>
+            </div>
+
+            <div class="xrow">
+                <div class="col3">Phone:</div>
+                <div class="col3">
+                    <input name="Phone" type="tel" maxlength="50" id="Phone" />
+                </div>
+            </div>
+
+            <div class="xrow">
+                <div class="col3">Email:</div>
+                <div class="col3">
+                    <input name="Email" type="text" maxlength="50" id="Email" /><br />
+                    This email will become your username
+                </div>
+            </div>
+            <br />
+            <div class="xrow" style="width:90%">
+                <div class="col3">&nbsp;</div>
+                <div class="col3">In clicking on this Submit button, I agree to treat Cat Babysitting Services content as confidential.</div>
+            </div>
+            <div class="xrow">
+                <div class="col3">&nbsp;</div>
+                <div class="col3">
+                    <input type="submit" value="Submit" />
+
+                </div>
+            </div>
+
+        </form>
+    </div>
+    <script src="js/siteMenu.js"></script>
+</body>
+</html>

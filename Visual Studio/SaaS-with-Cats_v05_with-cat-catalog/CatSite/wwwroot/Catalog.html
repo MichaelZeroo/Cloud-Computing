@@ -1,0 +1,88 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Cat Catalog</title>
+    <link href="css/StyleSheet.css" rel="stylesheet" />
+
+    <script>
+        //AJAX gets JSON which parses to a table  ref:
+        //https://www.w3schools.com/js/js_json_html.asp
+
+        var xmlhttp = new XMLHttpRequest();
+
+        //20180825 JPC Initialise event behaviours 
+        window.onload = function () {
+            //check that we are logged in before going to this page
+            var cookieValue = getCookie("catbabysittinguser");
+            if (cookieValue == "") {
+                alert("You need to be logged in before you can use this page.");
+                window.location.replace("Login.html");
+            } else {
+                alert("DEBUG: User is logged in and can use this page. MemberId to record as foreign key is " + cookieValue);
+            }
+
+            //setup AJAX
+            xmlhttp.onreadystatechange = function () {
+                ajaxCallback();
+            };
+
+            //20180828 JPC this sends only the UserId to identify cats owned by the current user
+            //  TODO Admin version that shows all cats
+            xmlhttp.open("GET", "/cats/getusercats?MemberId=" + cookieValue, true);
+            xmlhttp.send();
+        }
+
+        function ajaxCallback() {
+            if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                var messageObject = JSON.parse(xmlhttp.responseText);
+                var txt = "<table>";
+                txt += "<tr>";
+                //Extract the JSON keys as table headers
+                var keys = Object.keys(messageObject[0]);
+                for (var i = 0; i < keys.length; i++) {
+                    txt += "<th>" + keys[i] + "</th>";
+                }
+                txt += "</tr>";
+                for (var i = 0; i < messageObject.length; i++) {
+                    txt += "<tr>"
+                    //Note use of keys from above
+                    for (var j = 0; j < keys.length; j++) {
+                        if (j == 0) {
+                            txt += "<td><button onclick=\"window.location.replace('CatDetail.html?uid=" + messageObject[i][keys[j]] + "')\">Edit</button></td>";
+                        } else {
+                            txt += "<td>" + messageObject[i][keys[j]] + "</td>";
+                        }
+                    }
+                    txt += "</tr>";
+                }
+                txt += "</table>";
+                document.getElementById("xdata").innerHTML = txt;
+            }
+        }
+    </script>
+
+</head>
+<body style="background-color:wheat">
+
+    <div id="outerDiv" style="background-color:beige">
+        <nav id="menu"></nav>
+        <div class="xrow">
+            <h1>Cat Babysitting Services</h1>
+            <h2 align="center" style="font-weight: bold; font-size: 20pt; color: navy">
+                Your Cat Catalogue
+            </h2>
+            <p></p>
+            <p><span id="lblFeedback"></span></p>
+        </div>
+
+        <div><button onclick="window.location.replace('CatDetail.html');">Add New Cat</button></div>
+
+        <div id="xdata" style="width:100%; min-height:80vh">
+
+        </div>
+
+        <script src="js/siteMenu.js"></script>
+    </div>
+</body>
+</html>

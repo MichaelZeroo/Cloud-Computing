@@ -1,0 +1,189 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Cat Registration</title>
+    <link href="css/StyleSheet.css" rel="stylesheet" />
+
+    <script>
+        //AJAX!  refs
+        //https://www.w3schools.com/xml/ajax_xmlhttprequest_send.asp
+        //https://www.w3schools.com/js/js_ajax_http.asp
+        var xmlhttp = new XMLHttpRequest();
+
+        //20180825 JPC Initialise event behaviours 
+        window.onload = function () {
+
+            //setup AJAX
+            xmlhttp.onreadystatechange = function () {
+                ajaxCallback();
+            };
+
+            //check that we are logged in before going to this page
+            var cookieValue = getCookie("catbabysittinguser");
+            if (cookieValue == "") {
+                alert("You need to be logged in before you can use this page.");
+                window.location.replace("Login.html");
+            } else {
+                document.getElementById("MemberId").value = cookieValue;
+                //alert("DEBUG: User is logged in and can use this page. MemberId to record as foreign key is " + cookieValue);
+                var url = window.location.href.toString();
+                if (url.indexOf("?") > -1) {
+                    //We have a cat to edit
+                    var catId = url.split("?")[1].split("=")[1];
+                    //alert("CatId = " + catId);
+                    xmlhttp.open("GET", "/cats/getcat?CatId=" + catId, true);
+                    xmlhttp.send();
+                }
+            }
+
+            //stop the classic form submission process, then run our process
+            document.getElementById("Form1").addEventListener("submit", function (event) {
+                event.preventDefault();
+                xprocess();
+            });
+        }
+
+        function xprocess() {
+            //20180820 JPC Collect form data as JSON
+            //Note that this has potential to be reusable code that with some more work 
+            //could process a wide range of forms
+            var jsonObject = new Object();
+            //jsonObject["Test"] = "abcde";
+            var oeForm = document.getElementById("Form1");
+            var n = oeForm.elements.length;
+            for (var i = 0; i < n; i++) {
+                //case of new data entry where field is empty, 
+                //keep CatId out of the JSON
+                if (oeForm.elements[i].name.toLowerCase() == "catid"
+                    && oeForm.elements[i].value == "") continue;
+                //skip the Submit button as an element 
+                if (oeForm.elements[i].type.toLowerCase() == "submit") continue;
+                //set object name and value value
+                jsonObject[oeForm.elements[i].name] = oeForm.elements[i].value;
+            }
+            var jsonString = "json=" + JSON.stringify(jsonObject);
+            //alert(jsonString);
+
+            //send to server
+            //this is the async+post version of AJAX
+            var requestString = "";
+            if (document.getElementById("CatId").value == "") {
+                //new cat because there is no CatId
+                requestString = "/Cats/PostNewCat";
+            } else {
+                requestString = "/Cats/PostUpdateCat";
+            }
+            xmlhttp.open("POST", requestString, true);
+            xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+            xmlhttp.send(jsonString);
+        }
+
+        function ajaxCallback() {
+            if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                var response = xmlhttp.responseText;
+                alert(response + ", " + xmlhttp.status + " - " + xmlhttp.statusText);
+                if (response.indexOf("{") > -1 && response.toLowerCase().indexOf("catid") > -1) {
+                    var jsonObject = JSON.parse(response);
+                    var keys = Object.keys(jsonObject)
+                    for (var i = 0; i < keys.length; i++) {
+                        alert("keys[i] = " + keys[i]);
+                        try {
+                            document.getElementById(keys[i]).value = jsonObject[keys[i]];     
+                        } catch(err) {
+                            alert(err.message);
+                        }
+                    }
+                }
+                
+            }
+        }
+    </script>
+
+</head>
+<body style="background-color:wheat">
+
+    <div id="outerDiv" style="background-color:beige">
+        <nav id="menu"></nav>
+        <form method="post" action="" id="Form1">
+            <input name="MemberId" id="MemberId" type="hidden" value="" />
+
+            <div class="xrow">
+                <h1>Cat Babysitting Services</h1>
+                <h2 align="center" style="font-weight: bold; font-size: 20pt; color: navy">
+                    New Cat Registration
+                </h2>
+                <p></p>
+                <p><span id="lblFeedback"></span></p>
+            </div>
+
+            <div class="xrow">
+                <div class="col3" >Cat Id Number:</div>
+                <div class="col3" >
+                    <input type="text" id="CatId" name="CatId" value="" placeholder="System provides this" readonly />
+                </div>
+            </div>
+
+            <div class="xrow">
+                <div class="col3">Cat Name:</div>
+                <div class="col3">
+                    <input type="text" id="NameOfCat" name="NameOfCat" required />
+                </div>
+            </div>
+
+            <div class="xrow">
+                <div class="col3">Your cat's main problem is:</div>
+                <div class="col3">
+                    <!-- 20170617 JPC Validation - add attribute "required" to select plus "disabled" to first option -->
+                    <select id="Condition" name="Condition" size="8" style="width:22em" required>
+                        <option value="NULL" disabled>(select one of the following)</option>
+                        <option value="VO">Vomiting</option>
+                        <option value="CO">Constipation</option>
+                        <option value="AM">Breath smells like Ammonia</option>
+                        <option value="DT">Distemper</option>
+                        <option value="BT">Bad Temper</option>
+                        <option value="AD">Allergic Dermatitis</option>
+                        <option value="FI">Food Allergy and Intolerance</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="xrow">
+                <div class="col3">Cat Weight (kg):</div>
+                <div class="col3">
+                    <!-- 20170617 JPC Validation required, numeric input-->
+                    <input type="number" id="Weight" name="Weight" min="0" max="15" step="0.1" required />
+                </div>
+            </div>
+
+            <div class="xrow">
+                <div class="col3">Cat Age (whole years):</div>
+                <div class="col3">
+                    <!-- 20170617 JPC Validation required, numeric input, use step to get integer input -->
+                    <input type="number" id="Age" name="Age" min="0" max="40" step="1" required />
+                </div>
+            </div>
+
+            <div class="xrow">
+                <div class="col3">Cat's Contact Email:</div>
+                <div class="col3">
+                    <input type="email" id="Email" name="Email" style="width:22em" required />
+                </div>
+            </div>
+            <br />
+            <div class="xrow" style="width:90%">
+                <div class="col3">&nbsp;</div>
+                <div class="col3">In clicking on this Submit button, I agree to treat Cat Babysitting Services content as confidential.</div>
+            </div>
+            <div class="xrow">
+                <div class="col3">&nbsp;</div>
+                <div class="col3">
+                    <input type="submit" value="Submit" />
+
+                </div>
+            </div>
+        </form>
+        <script src="js/siteMenu.js"></script>
+    </div>
+</body>
+</html>

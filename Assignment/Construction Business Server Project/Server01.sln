@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Server01", "Server01\Server01.csproj", "{82AD699C-E683-4B6D-8E61-8099D76A4F59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client01", "Client01\Client01.csproj", "{FDCAD1E2-83CE-4DD9-B5F0-B77738A48D97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82AD699C-E683-4B6D-8E61-8099D76A4F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82AD699C-E683-4B6D-8E61-8099D76A4F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82AD699C-E683-4B6D-8E61-8099D76A4F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82AD699C-E683-4B6D-8E61-8099D76A4F59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDCAD1E2-83CE-4DD9-B5F0-B77738A48D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDCAD1E2-83CE-4DD9-B5F0-B77738A48D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDCAD1E2-83CE-4DD9-B5F0-B77738A48D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDCAD1E2-83CE-4DD9-B5F0-B77738A48D97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5FDA818-B464-465A-84BB-53A91422F9FC}
+	EndGlobalSection
+EndGlobal

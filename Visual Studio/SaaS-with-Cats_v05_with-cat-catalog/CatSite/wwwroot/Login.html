@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="css/StyleSheet.css" rel="stylesheet" />
+    <title>Index</title>
+    <script>
+        //AJAX!  refs
+        //https://www.w3schools.com/xml/ajax_xmlhttprequest_send.asp
+        //https://www.w3schools.com/js/js_ajax_http.asp
+        var xmlhttp = new XMLHttpRequest();
+
+        //20180825 JPC Initialise event behaviours
+        window.onload = function () {
+            //setup AJAX
+            xmlhttp.onreadystatechange = function () {
+                ajaxCallback();
+            };
+
+            //stop the classic form submission process, then run our process
+            document.getElementById("Form1").addEventListener("submit", function (event) {
+                event.preventDefault();
+                xprocess();
+            });
+        }
+
+        function xprocess() {
+            //20180820 JPC Collect form data as JSON
+            //Note that this has potential to be reusable code that with some more work
+            //could process a wide range of forms
+            var jsonObject = new Object();
+            //jsonObject["Test"] = "abcde";
+            var oeForm = document.getElementById("Form1");
+            var n = oeForm.elements.length;
+            for (var i = 0; i < n; i++) {
+                //skip the Submit button as an element
+                if (oeForm.elements[i].type.toLowerCase() == "submit") continue;
+                //set object name and value value
+                jsonObject[oeForm.elements[i].name] = oeForm.elements[i].value;
+            }
+            var jsonString = "json=" + JSON.stringify(jsonObject);
+            //alert(jsonString);
+
+            //send to server
+            //this is the async+post best practice version of AJAX
+            var requestString = "/Members/Login";
+            xmlhttp.open("POST", requestString, true);
+            xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+            xmlhttp.send(jsonString);
+        }
+
+        function ajaxCallback() {
+            if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                var message = xmlhttp.responseText;
+                var messageObject = JSON.parse(message);
+                if (messageObject.issuccess) {
+                    //oversimplified - this especially
+                    document.cookie = "catbabysittinguser=" + messageObject.userid;
+                    alert(messageObject.response);
+                    window.location.replace("Catalog.html");
+                } else {
+                    alert(messageObject.response);
+                }
+                
+            }
+        }
+    </script>
+</head>
+<body>
+    <div id="outerDiv">
+        <form method="post" action="" id="Form1">
+            <nav id="menu"></nav>
+
+            <h2>Cat Babysitting Services <img src="images/cat_003.png" style="width:50px" /></h2>
+            <h3>Login</h3>
+            <dl>
+                <dt>Username</dt>
+                <dd><input type="text" name="Username" id="Username" required /></dd>
+                <dt>Password</dt>
+                <dd><input type="password" name="Password" id="Password" required /></dd>
+                <dt>&nbsp;</dt>
+                <dd><input type="submit" name="Submit" id="Submit" value="Submit" /></dd>
+
+            </dl>
+        </form>
+    </div>
+    <script src="js/siteMenu.js"></script>
+</body>
+</html>
+

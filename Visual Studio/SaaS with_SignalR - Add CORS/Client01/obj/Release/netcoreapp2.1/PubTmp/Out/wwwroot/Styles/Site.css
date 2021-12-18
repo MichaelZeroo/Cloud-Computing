@@ -1,0 +1,52 @@
+﻿body 
+{
+    background-color: #ffe0e0;
+    font-family: Verdana;
+}
+
+/* div id="doc1" is the master page container */
+#doc1 
+{
+    position: relative;
+    width: 800px;
+    margin: auto;
+    background-color: white;
+    padding: 30px;
+    height: 800px;
+}
+
+/* Use of lists for layout - HOWTO make the bullets disappear 
+   Note the need for the container to have property position:relative */
+ul
+{
+    position: relative;
+    list-style: none;
+}
+
+li
+{
+    position: relative;
+    list-style-image: url(InvisibleBullet.gif);
+    height: 1.8em;
+}
+
+/* method of getting effect of 2 columns */
+.colLeft
+{
+    float: left;
+    color: #000000;
+    font-weight: bold;
+    background-color: #f798a1;
+    width: 250px;
+    height: 1.5em;
+}
+
+.colRight {
+    float: left;
+    background-color: #e8f2e0;
+    top: 20px;
+}
+
+.val {
+    color: #ff0000;
+}

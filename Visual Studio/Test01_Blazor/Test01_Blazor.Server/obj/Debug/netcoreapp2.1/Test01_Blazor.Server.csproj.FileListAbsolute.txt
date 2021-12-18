@@ -1,0 +1,48 @@
+F:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\bin\Debug\netcoreapp2.1\Test01_Blazor.Client.blazor.config
+F:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\bin\Debug\netcoreapp2.1\Test01_Blazor.Server.deps.json
+F:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\bin\Debug\netcoreapp2.1\Test01_Blazor.Server.runtimeconfig.json
+F:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\bin\Debug\netcoreapp2.1\Test01_Blazor.Server.runtimeconfig.dev.json
+F:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\bin\Debug\netcoreapp2.1\Test01_Blazor.Server.dll
+F:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\bin\Debug\netcoreapp2.1\Test01_Blazor.Server.pdb
+F:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\bin\Debug\netcoreapp2.1\Test01_Blazor.Client.dll
+F:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\bin\Debug\netcoreapp2.1\Test01_Blazor.Shared.dll
+F:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\bin\Debug\netcoreapp2.1\Test01_Blazor.Client.pdb
+F:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\bin\Debug\netcoreapp2.1\Test01_Blazor.Shared.pdb
+F:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\obj\Debug\netcoreapp2.1\Test01_Blazor.Server.csprojAssemblyReference.cache
+F:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\obj\Debug\netcoreapp2.1\Test01_Blazor.Server.csproj.CoreCompileInputs.cache
+F:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\obj\Debug\netcoreapp2.1\Test01_Blazor.Server.RazorAssemblyInfo.cache
+F:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\obj\Debug\netcoreapp2.1\Test01_Blazor.Server.RazorAssemblyInfo.cs
+F:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\obj\Debug\netcoreapp2.1\Test01_Blazor.Server.AssemblyInfoInputs.cache
+F:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\obj\Debug\netcoreapp2.1\Test01_Blazor.Server.AssemblyInfo.cs
+F:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\obj\Debug\netcoreapp2.1\Test01_Blazor.Server.RazorTargetAssemblyInfo.cache
+F:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\obj\Debug\netcoreapp2.1\Test01_Blazor.Server.csproj.CopyComplete
+F:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\obj\Debug\netcoreapp2.1\Test01_Blazor.Server.dll
+F:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\obj\Debug\netcoreapp2.1\Test01_Blazor.Server.pdb
+E:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\bin\Debug\netcoreapp2.1\Test01_Blazor.Client.blazor.config
+E:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\bin\Debug\netcoreapp2.1\Test01_Blazor.Server.deps.json
+E:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\bin\Debug\netcoreapp2.1\Test01_Blazor.Server.runtimeconfig.json
+E:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\bin\Debug\netcoreapp2.1\Test01_Blazor.Server.runtimeconfig.dev.json
+E:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\bin\Debug\netcoreapp2.1\Test01_Blazor.Server.dll
+E:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\bin\Debug\netcoreapp2.1\Test01_Blazor.Server.pdb
+E:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\bin\Debug\netcoreapp2.1\Test01_Blazor.Client.dll
+E:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\bin\Debug\netcoreapp2.1\Test01_Blazor.Shared.dll
+E:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\bin\Debug\netcoreapp2.1\Test01_Blazor.Client.pdb
+E:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\bin\Debug\netcoreapp2.1\Test01_Blazor.Shared.pdb
+E:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\obj\Debug\netcoreapp2.1\Test01_Blazor.Server.csprojAssemblyReference.cache
+E:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\obj\Debug\netcoreapp2.1\Test01_Blazor.Server.csproj.CoreCompileInputs.cache
+E:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\obj\Debug\netcoreapp2.1\Test01_Blazor.Server.RazorAssemblyInfo.cache
+E:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\obj\Debug\netcoreapp2.1\Test01_Blazor.Server.RazorAssemblyInfo.cs
+E:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\obj\Debug\netcoreapp2.1\Test01_Blazor.Server.AssemblyInfoInputs.cache
+E:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\obj\Debug\netcoreapp2.1\Test01_Blazor.Server.AssemblyInfo.cs
+E:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\obj\Debug\netcoreapp2.1\Test01_Blazor.Server.RazorTargetAssemblyInfo.cache
+E:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\obj\Debug\netcoreapp2.1\Test01_Blazor.Server.csproj.CopyComplete
+E:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\obj\Debug\netcoreapp2.1\Test01_Blazor.Server.dll
+E:\XTemp_181Q182Q\Dev\Test01_Blazor\Test01_Blazor.Server\obj\Debug\netcoreapp2.1\Test01_Blazor.Server.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\Test01_Blazor\Test01_Blazor.Server\obj\Debug\netcoreapp2.1\Test01_Blazor.Server.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\Test01_Blazor\Test01_Blazor.Server\obj\Debug\netcoreapp2.1\Test01_Blazor.Server.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\Test01_Blazor\Test01_Blazor.Server\obj\Debug\netcoreapp2.1\Test01_Blazor.Server.RazorAssemblyInfo.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\Test01_Blazor\Test01_Blazor.Server\obj\Debug\netcoreapp2.1\Test01_Blazor.Server.RazorAssemblyInfo.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\Test01_Blazor\Test01_Blazor.Server\obj\Debug\netcoreapp2.1\Test01_Blazor.Server.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\Test01_Blazor\Test01_Blazor.Server\obj\Debug\netcoreapp2.1\Test01_Blazor.Server.AssemblyInfo.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\Test01_Blazor\Test01_Blazor.Server\obj\Debug\netcoreapp2.1\Test01_Blazor.Server.dll
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\Test01_Blazor\Test01_Blazor.Server\obj\Debug\netcoreapp2.1\Test01_Blazor.Server.pdb

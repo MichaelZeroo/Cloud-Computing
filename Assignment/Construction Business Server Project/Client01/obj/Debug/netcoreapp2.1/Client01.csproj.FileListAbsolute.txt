@@ -1,0 +1,68 @@
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\bin\Debug\netcoreapp2.1\Client01.deps.json
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\bin\Debug\netcoreapp2.1\Client01.runtimeconfig.json
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\bin\Debug\netcoreapp2.1\Client01.runtimeconfig.dev.json
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\bin\Debug\netcoreapp2.1\Client01.dll
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\bin\Debug\netcoreapp2.1\Client01.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\bin\Debug\netcoreapp2.1\Client01.Views.dll
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\bin\Debug\netcoreapp2.1\Client01.Views.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Client01.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Client01.RazorAssemblyInfo.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Client01.RazorAssemblyInfo.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Client01.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Client01.AssemblyInfo.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Client01.TagHelpers.input.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Client01.TagHelpers.output.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Client01.RazorCoreGenerate.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Client01.RazorTargetAssemblyInfo.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Client01.RazorTargetAssemblyInfo.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Client01.Views.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Client01.dll
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Client01.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Client01.csproj.CopyComplete
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\bin\Debug\netcoreapp2.1\Server01.dll
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\bin\Debug\netcoreapp2.1\Server01.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Client01.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\bin\Debug\netcoreapp2.1\Client01.deps.json
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\bin\Debug\netcoreapp2.1\Client01.runtimeconfig.json
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\bin\Debug\netcoreapp2.1\Client01.runtimeconfig.dev.json
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\bin\Debug\netcoreapp2.1\Client01.dll
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\bin\Debug\netcoreapp2.1\Client01.pdb
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\bin\Debug\netcoreapp2.1\Client01.Views.dll
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\bin\Debug\netcoreapp2.1\Client01.Views.pdb
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\bin\Debug\netcoreapp2.1\Server01.dll
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\bin\Debug\netcoreapp2.1\Server01.pdb
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Client01.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Client01.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Client01.RazorAssemblyInfo.cache
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Client01.RazorAssemblyInfo.cs
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Client01.AssemblyInfoInputs.cache
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Client01.AssemblyInfo.cs
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Client01.TagHelpers.input.cache
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Client01.TagHelpers.output.cache
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Client01.RazorCoreGenerate.cache
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Client01.RazorTargetAssemblyInfo.cache
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Client01.RazorTargetAssemblyInfo.cs
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Client01.Views.pdb
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Client01.csproj.CopyComplete
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Client01.dll
+C:\Users\Michael\Downloads\Construction Business Server Project\Client01\obj\Debug\netcoreapp2.1\Client01.pdb

@@ -1,0 +1,42 @@
+C:\Users\jcalder\source\repos\MVCManukauTech\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.deps.json
+C:\Users\jcalder\source\repos\MVCManukauTech\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.runtimeconfig.json
+C:\Users\jcalder\source\repos\MVCManukauTech\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.runtimeconfig.dev.json
+C:\Users\jcalder\source\repos\MVCManukauTech\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.dll
+C:\Users\jcalder\source\repos\MVCManukauTech\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.csprojAssemblyReference.cache
+C:\Users\jcalder\source\repos\MVCManukauTech\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.csproj.CoreCompileInputs.cache
+C:\Users\jcalder\source\repos\MVCManukauTech\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorAssemblyInfo.cache
+C:\Users\jcalder\source\repos\MVCManukauTech\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorAssemblyInfo.cs
+C:\Users\jcalder\source\repos\MVCManukauTech\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.AssemblyInfoInputs.cache
+C:\Users\jcalder\source\repos\MVCManukauTech\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.AssemblyInfo.cs
+C:\Users\jcalder\source\repos\MVCManukauTech\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorTargetAssemblyInfo.cache
+C:\Users\jcalder\source\repos\MVCManukauTech\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.pdb
+C:\Users\jcalder\source\repos\MVCManukauTech\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.dll
+C:\Users\jcalder\source\repos\MVCManukauTech\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.pdb
+E:\XTemp_183Q184Q\562.615_Cloud4Devs\Week01_Working\TestStartFromEmpty\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.deps.json
+E:\XTemp_183Q184Q\562.615_Cloud4Devs\Week01_Working\TestStartFromEmpty\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.runtimeconfig.json
+E:\XTemp_183Q184Q\562.615_Cloud4Devs\Week01_Working\TestStartFromEmpty\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.runtimeconfig.dev.json
+E:\XTemp_183Q184Q\562.615_Cloud4Devs\Week01_Working\TestStartFromEmpty\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.dll
+E:\XTemp_183Q184Q\562.615_Cloud4Devs\Week01_Working\TestStartFromEmpty\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.pdb
+E:\XTemp_183Q184Q\562.615_Cloud4Devs\Week01_Working\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.csprojAssemblyReference.cache
+E:\XTemp_183Q184Q\562.615_Cloud4Devs\Week01_Working\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.csproj.CoreCompileInputs.cache
+E:\XTemp_183Q184Q\562.615_Cloud4Devs\Week01_Working\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorAssemblyInfo.cache
+E:\XTemp_183Q184Q\562.615_Cloud4Devs\Week01_Working\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorAssemblyInfo.cs
+E:\XTemp_183Q184Q\562.615_Cloud4Devs\Week01_Working\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.AssemblyInfoInputs.cache
+E:\XTemp_183Q184Q\562.615_Cloud4Devs\Week01_Working\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.AssemblyInfo.cs
+E:\XTemp_183Q184Q\562.615_Cloud4Devs\Week01_Working\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorTargetAssemblyInfo.cache
+E:\XTemp_183Q184Q\562.615_Cloud4Devs\Week01_Working\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.dll
+E:\XTemp_183Q184Q\562.615_Cloud4Devs\Week01_Working\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\TestStartFromEmpty\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.deps.json
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\TestStartFromEmpty\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.runtimeconfig.json
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\TestStartFromEmpty\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.runtimeconfig.dev.json
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\TestStartFromEmpty\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.dll
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\TestStartFromEmpty\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorAssemblyInfo.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorAssemblyInfo.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.AssemblyInfo.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorTargetAssemblyInfo.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.dll
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Visual Studio\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.pdb

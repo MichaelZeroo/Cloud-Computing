@@ -1,0 +1,12 @@
+D:\inetpub\BankFiction3Dev\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+D:\inetpub\BankFiction3Dev\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+D:\inetpub\BankFiction3Dev\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+D:\inetpub\BankFiction3Dev\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+D:\inetpub\BankFiction3Dev\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+D:\inetpub\BankFiction3Dev\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+D:\inetpub\BankFiction3Dev\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\inetpub\BankFiction3Dev\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+D:\inetpub\BankFiction3Dev\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+D:\inetpub\BankFiction3Dev\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+D:\inetpub\BankFiction3Dev\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+D:\inetpub\BankFiction3Dev\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojResolveAssemblyReference.cache

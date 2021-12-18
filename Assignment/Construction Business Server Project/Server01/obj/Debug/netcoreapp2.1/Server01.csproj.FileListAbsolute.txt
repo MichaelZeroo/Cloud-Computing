@@ -1,0 +1,83 @@
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week07\Server-Only-for-VS-AZ\MusicServer\bin\Debug\netcoreapp2.1\Server01.deps.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week07\Server-Only-for-VS-AZ\MusicServer\bin\Debug\netcoreapp2.1\Server01.runtimeconfig.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week07\Server-Only-for-VS-AZ\MusicServer\bin\Debug\netcoreapp2.1\Server01.runtimeconfig.dev.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week07\Server-Only-for-VS-AZ\MusicServer\bin\Debug\netcoreapp2.1\Server01.dll
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week07\Server-Only-for-VS-AZ\MusicServer\bin\Debug\netcoreapp2.1\Server01.pdb
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week07\Server-Only-for-VS-AZ\MusicServer\obj\Debug\netcoreapp2.1\Server01.csproj.CoreCompileInputs.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week07\Server-Only-for-VS-AZ\MusicServer\obj\Debug\netcoreapp2.1\Server01.RazorAssemblyInfo.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week07\Server-Only-for-VS-AZ\MusicServer\obj\Debug\netcoreapp2.1\Server01.RazorAssemblyInfo.cs
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week07\Server-Only-for-VS-AZ\MusicServer\obj\Debug\netcoreapp2.1\Server01.AssemblyInfoInputs.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week07\Server-Only-for-VS-AZ\MusicServer\obj\Debug\netcoreapp2.1\Server01.AssemblyInfo.cs
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week07\Server-Only-for-VS-AZ\MusicServer\obj\Debug\netcoreapp2.1\Server01.RazorTargetAssemblyInfo.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week07\Server-Only-for-VS-AZ\MusicServer\obj\Debug\netcoreapp2.1\Server01.dll
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week07\Server-Only-for-VS-AZ\MusicServer\obj\Debug\netcoreapp2.1\Server01.pdb
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week07\Server-Only-for-VS-AZ\Server01\bin\Debug\netcoreapp2.1\Server01.deps.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week07\Server-Only-for-VS-AZ\Server01\bin\Debug\netcoreapp2.1\Server01.runtimeconfig.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week07\Server-Only-for-VS-AZ\Server01\bin\Debug\netcoreapp2.1\Server01.runtimeconfig.dev.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week07\Server-Only-for-VS-AZ\Server01\bin\Debug\netcoreapp2.1\Server01.dll
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week07\Server-Only-for-VS-AZ\Server01\bin\Debug\netcoreapp2.1\Server01.pdb
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week07\Server-Only-for-VS-AZ\Server01\obj\Debug\netcoreapp2.1\Server01.csprojAssemblyReference.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week07\Server-Only-for-VS-AZ\Server01\obj\Debug\netcoreapp2.1\Server01.csproj.CoreCompileInputs.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week07\Server-Only-for-VS-AZ\Server01\obj\Debug\netcoreapp2.1\Server01.RazorAssemblyInfo.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week07\Server-Only-for-VS-AZ\Server01\obj\Debug\netcoreapp2.1\Server01.RazorAssemblyInfo.cs
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week07\Server-Only-for-VS-AZ\Server01\obj\Debug\netcoreapp2.1\Server01.AssemblyInfoInputs.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week07\Server-Only-for-VS-AZ\Server01\obj\Debug\netcoreapp2.1\Server01.AssemblyInfo.cs
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week07\Server-Only-for-VS-AZ\Server01\obj\Debug\netcoreapp2.1\Server01.RazorTargetAssemblyInfo.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week07\Server-Only-for-VS-AZ\Server01\obj\Debug\netcoreapp2.1\Server01.dll
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week07\Server-Only-for-VS-AZ\Server01\obj\Debug\netcoreapp2.1\Server01.pdb
+C:\Users\Louis\Desktop\Server Project\Server01\bin\Debug\netcoreapp2.1\Server01.deps.json
+C:\Users\Louis\Desktop\Server Project\Server01\bin\Debug\netcoreapp2.1\Server01.runtimeconfig.json
+C:\Users\Louis\Desktop\Server Project\Server01\bin\Debug\netcoreapp2.1\Server01.runtimeconfig.dev.json
+C:\Users\Louis\Desktop\Server Project\Server01\bin\Debug\netcoreapp2.1\Server01.dll
+C:\Users\Louis\Desktop\Server Project\Server01\bin\Debug\netcoreapp2.1\Server01.pdb
+C:\Users\Louis\Desktop\Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.csprojAssemblyReference.cache
+C:\Users\Louis\Desktop\Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.csproj.CoreCompileInputs.cache
+C:\Users\Louis\Desktop\Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.RazorAssemblyInfo.cache
+C:\Users\Louis\Desktop\Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.RazorAssemblyInfo.cs
+C:\Users\Louis\Desktop\Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.AssemblyInfoInputs.cache
+C:\Users\Louis\Desktop\Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.AssemblyInfo.cs
+C:\Users\Louis\Desktop\Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.RazorTargetAssemblyInfo.cache
+C:\Users\Louis\Desktop\Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.dll
+C:\Users\Louis\Desktop\Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Server01\bin\Debug\netcoreapp2.1\Server01.deps.json
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Server01\bin\Debug\netcoreapp2.1\Server01.runtimeconfig.json
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Server01\bin\Debug\netcoreapp2.1\Server01.runtimeconfig.dev.json
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Server01\bin\Debug\netcoreapp2.1\Server01.dll
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Server01\bin\Debug\netcoreapp2.1\Server01.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.RazorAssemblyInfo.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.RazorAssemblyInfo.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.AssemblyInfo.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.RazorTargetAssemblyInfo.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.dll
+C:\Users\Michael\Documents\Course\2018 Quarter 3\Cloud Computing\Assignment\Construction Business Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.pdb
+C:\Users\Louis\Desktop\New folder\Construction Business Server Project\Server01\bin\Debug\netcoreapp2.1\Server01.deps.json
+C:\Users\Louis\Desktop\New folder\Construction Business Server Project\Server01\bin\Debug\netcoreapp2.1\Server01.runtimeconfig.json
+C:\Users\Louis\Desktop\New folder\Construction Business Server Project\Server01\bin\Debug\netcoreapp2.1\Server01.runtimeconfig.dev.json
+C:\Users\Louis\Desktop\New folder\Construction Business Server Project\Server01\bin\Debug\netcoreapp2.1\Server01.dll
+C:\Users\Louis\Desktop\New folder\Construction Business Server Project\Server01\bin\Debug\netcoreapp2.1\Server01.pdb
+C:\Users\Louis\Desktop\New folder\Construction Business Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.csprojAssemblyReference.cache
+C:\Users\Louis\Desktop\New folder\Construction Business Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.csproj.CoreCompileInputs.cache
+C:\Users\Louis\Desktop\New folder\Construction Business Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.RazorAssemblyInfo.cache
+C:\Users\Louis\Desktop\New folder\Construction Business Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.RazorAssemblyInfo.cs
+C:\Users\Louis\Desktop\New folder\Construction Business Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.AssemblyInfoInputs.cache
+C:\Users\Louis\Desktop\New folder\Construction Business Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.AssemblyInfo.cs
+C:\Users\Louis\Desktop\New folder\Construction Business Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.RazorTargetAssemblyInfo.cache
+C:\Users\Louis\Desktop\New folder\Construction Business Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.dll
+C:\Users\Louis\Desktop\New folder\Construction Business Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.pdb
+C:\Users\Michael\Downloads\Construction Business Server Project\Server01\bin\Debug\netcoreapp2.1\Server01.deps.json
+C:\Users\Michael\Downloads\Construction Business Server Project\Server01\bin\Debug\netcoreapp2.1\Server01.runtimeconfig.json
+C:\Users\Michael\Downloads\Construction Business Server Project\Server01\bin\Debug\netcoreapp2.1\Server01.runtimeconfig.dev.json
+C:\Users\Michael\Downloads\Construction Business Server Project\Server01\bin\Debug\netcoreapp2.1\Server01.dll
+C:\Users\Michael\Downloads\Construction Business Server Project\Server01\bin\Debug\netcoreapp2.1\Server01.pdb
+C:\Users\Michael\Downloads\Construction Business Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Downloads\Construction Business Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Downloads\Construction Business Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.RazorAssemblyInfo.cache
+C:\Users\Michael\Downloads\Construction Business Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.RazorAssemblyInfo.cs
+C:\Users\Michael\Downloads\Construction Business Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.AssemblyInfoInputs.cache
+C:\Users\Michael\Downloads\Construction Business Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.AssemblyInfo.cs
+C:\Users\Michael\Downloads\Construction Business Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.RazorTargetAssemblyInfo.cache
+C:\Users\Michael\Downloads\Construction Business Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.dll
+C:\Users\Michael\Downloads\Construction Business Server Project\Server01\obj\Debug\netcoreapp2.1\Server01.pdb

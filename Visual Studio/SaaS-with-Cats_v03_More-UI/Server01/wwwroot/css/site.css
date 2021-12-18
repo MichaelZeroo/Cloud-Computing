@@ -1,0 +1,31 @@
+﻿* {
+    font-family: Verdana;
+    font-size: 0.5cm;
+    font-weight: normal;
+}
+
+body {
+    background-color:lightgrey;
+}
+
+#outerDiv {
+    width: 960px;
+    margin: auto;
+    background-color:white;
+    padding:20px;
+    min-height: 99vh;
+}
+
+h2 {
+    font-family: Verdana;
+    font-size: 1.6em;
+}
+
+h3 {
+    font-family: Verdana;
+    font-size: 1.3em;
+}
+
+
+
+

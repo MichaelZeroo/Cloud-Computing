@@ -1,0 +1,93 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Login</title>
+    <link href="css/site.css" rel="stylesheet" />
+
+    <script>
+        //AJAX!  refs
+        //https://www.w3schools.com/xml/ajax_xmlhttprequest_send.asp
+        //https://www.w3schools.com/js/js_ajax_http.asp
+        var xmlhttp = new XMLHttpRequest();
+
+        //20180825 JPC Initialise event behaviours
+        window.onload = function () {
+            //setup AJAX
+            xmlhttp.onreadystatechange = function () {
+                ajaxCallback();
+            };
+
+            //stop the classic form submission process, then run our process
+            document.getElementById("Form1").addEventListener("submit", function (event) {
+                event.preventDefault();
+                xprocess();
+            });
+        }
+
+        function xprocess() {
+            //20180820 JPC Collect form data as JSON
+            //Note that this has potential to be reusable code that with some more work
+            //could process a wide range of forms
+            var jsonObject = new Object();
+            //jsonObject["Test"] = "abcde";
+            var oeForm = document.getElementById("Form1");
+            var n = oeForm.elements.length;
+            for (var i = 0; i < n; i++) {
+                //skip the Submit button as an element
+                if (oeForm.elements[i].type.toLowerCase() == "submit") continue;
+                //set object name and value value
+                jsonObject[oeForm.elements[i].name] = oeForm.elements[i].value;
+            }
+            var jsonString = "json=" + JSON.stringify(jsonObject);
+            //alert(jsonString);
+
+            //send to server
+            //this is the async+post best practice version of AJAX
+            var requestString = "https://localhost:44361/OrderService/Login";
+            xmlhttp.open("POST", requestString, true);
+            xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+            xmlhttp.send(jsonString);
+        }
+
+        function ajaxCallback() {
+            if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                var message = xmlhttp.responseText;
+                var messageObject = JSON.parse(message);
+                if (messageObject.issuccess) {
+                    //oversimplified - this especially
+                    document.cookie = "username=" + messageObject.userid;
+                    alert(messageObject.response);
+                    window.location.replace("GetAllOrders.html");
+                } else {
+                    alert(messageObject.response);
+                }
+
+            }
+        }
+    </script>
+</head>
+<body>
+    <div id="outerDiv">
+        <nav id="menu"></nav>
+        <form method="post" action="" id="Form1">
+
+
+            <h2>Login</h2>
+            <dl>
+                <dt>Username</dt>
+                <dd><input type="text" name="Username" id="Username" required /></dd>
+                <dt>Password</dt>
+                <dd><input type="password" name="Password" id="Password" required /></dd>
+                <dt>&nbsp;</dt>
+                <dd><input type="submit" name="Submit" id="Submit" value="Submit" /></dd>
+
+            </dl>
+        </form>
+
+        <h1>This is a student project</h1>
+        <script src="js/site.js"></script>
+    </div>
+
+</body>
+</html>

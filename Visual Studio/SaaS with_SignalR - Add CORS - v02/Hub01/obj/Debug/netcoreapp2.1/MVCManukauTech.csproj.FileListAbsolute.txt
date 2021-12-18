@@ -1,0 +1,148 @@
+C:\Users\jcalder\source\repos\MVCManukauTech\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.deps.json
+C:\Users\jcalder\source\repos\MVCManukauTech\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.runtimeconfig.json
+C:\Users\jcalder\source\repos\MVCManukauTech\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.runtimeconfig.dev.json
+C:\Users\jcalder\source\repos\MVCManukauTech\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.dll
+C:\Users\jcalder\source\repos\MVCManukauTech\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.csprojAssemblyReference.cache
+C:\Users\jcalder\source\repos\MVCManukauTech\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.csproj.CoreCompileInputs.cache
+C:\Users\jcalder\source\repos\MVCManukauTech\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorAssemblyInfo.cache
+C:\Users\jcalder\source\repos\MVCManukauTech\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorAssemblyInfo.cs
+C:\Users\jcalder\source\repos\MVCManukauTech\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.AssemblyInfoInputs.cache
+C:\Users\jcalder\source\repos\MVCManukauTech\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.AssemblyInfo.cs
+C:\Users\jcalder\source\repos\MVCManukauTech\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorTargetAssemblyInfo.cache
+C:\Users\jcalder\source\repos\MVCManukauTech\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.pdb
+C:\Users\jcalder\source\repos\MVCManukauTech\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.dll
+C:\Users\jcalder\source\repos\MVCManukauTech\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.pdb
+E:\XTemp_183Q184Q\562.615_Cloud4Devs\Week01_Working\TestStartFromEmpty\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.deps.json
+E:\XTemp_183Q184Q\562.615_Cloud4Devs\Week01_Working\TestStartFromEmpty\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.runtimeconfig.json
+E:\XTemp_183Q184Q\562.615_Cloud4Devs\Week01_Working\TestStartFromEmpty\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.runtimeconfig.dev.json
+E:\XTemp_183Q184Q\562.615_Cloud4Devs\Week01_Working\TestStartFromEmpty\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.dll
+E:\XTemp_183Q184Q\562.615_Cloud4Devs\Week01_Working\TestStartFromEmpty\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.pdb
+E:\XTemp_183Q184Q\562.615_Cloud4Devs\Week01_Working\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.csprojAssemblyReference.cache
+E:\XTemp_183Q184Q\562.615_Cloud4Devs\Week01_Working\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.csproj.CoreCompileInputs.cache
+E:\XTemp_183Q184Q\562.615_Cloud4Devs\Week01_Working\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorAssemblyInfo.cache
+E:\XTemp_183Q184Q\562.615_Cloud4Devs\Week01_Working\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorAssemblyInfo.cs
+E:\XTemp_183Q184Q\562.615_Cloud4Devs\Week01_Working\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.AssemblyInfoInputs.cache
+E:\XTemp_183Q184Q\562.615_Cloud4Devs\Week01_Working\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.AssemblyInfo.cs
+E:\XTemp_183Q184Q\562.615_Cloud4Devs\Week01_Working\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorTargetAssemblyInfo.cache
+E:\XTemp_183Q184Q\562.615_Cloud4Devs\Week01_Working\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.dll
+E:\XTemp_183Q184Q\562.615_Cloud4Devs\Week01_Working\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.pdb
+C:\TEMP\TestStartFromEmpty\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.deps.json
+C:\TEMP\TestStartFromEmpty\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.runtimeconfig.json
+C:\TEMP\TestStartFromEmpty\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.runtimeconfig.dev.json
+C:\TEMP\TestStartFromEmpty\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.dll
+C:\TEMP\TestStartFromEmpty\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.pdb
+C:\TEMP\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.csprojAssemblyReference.cache
+C:\TEMP\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.csproj.CoreCompileInputs.cache
+C:\TEMP\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorAssemblyInfo.cache
+C:\TEMP\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorAssemblyInfo.cs
+C:\TEMP\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.AssemblyInfoInputs.cache
+C:\TEMP\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.AssemblyInfo.cs
+C:\TEMP\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorTargetAssemblyInfo.cache
+C:\TEMP\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.dll
+C:\TEMP\TestStartFromEmpty\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.pdb
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.deps.json
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.runtimeconfig.json
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.runtimeconfig.dev.json
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.dll
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.pdb
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.csprojAssemblyReference.cache
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.csproj.CoreCompileInputs.cache
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorAssemblyInfo.cache
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorAssemblyInfo.cs
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.AssemblyInfoInputs.cache
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.AssemblyInfo.cs
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorTargetAssemblyInfo.cache
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.dll
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.pdb
+F:\XTemp_183Q184Q\562.615_Cloud4Devs\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.csprojAssemblyReference.cache
+F:\XTemp_183Q184Q\562.615_Cloud4Devs\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.csproj.CoreCompileInputs.cache
+F:\XTemp_183Q184Q\562.615_Cloud4Devs\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorAssemblyInfo.cache
+F:\XTemp_183Q184Q\562.615_Cloud4Devs\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorAssemblyInfo.cs
+F:\XTemp_183Q184Q\562.615_Cloud4Devs\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.AssemblyInfoInputs.cache
+F:\XTemp_183Q184Q\562.615_Cloud4Devs\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.AssemblyInfo.cs
+F:\XTemp_183Q184Q\562.615_Cloud4Devs\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.dll
+F:\XTemp_183Q184Q\562.615_Cloud4Devs\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.pdb
+F:\XTemp_183Q184Q\562.615_Cloud4Devs\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.deps.json
+F:\XTemp_183Q184Q\562.615_Cloud4Devs\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.runtimeconfig.json
+F:\XTemp_183Q184Q\562.615_Cloud4Devs\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.runtimeconfig.dev.json
+F:\XTemp_183Q184Q\562.615_Cloud4Devs\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.dll
+F:\XTemp_183Q184Q\562.615_Cloud4Devs\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.pdb
+F:\XTemp_183Q184Q\562.615_Cloud4Devs\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorTargetAssemblyInfo.cache
+F:\XTemp_183Q184Q\562.615_Cloud4Devs\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.Views.dll
+F:\XTemp_183Q184Q\562.615_Cloud4Devs\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.Views.pdb
+F:\XTemp_183Q184Q\562.615_Cloud4Devs\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.TagHelpers.input.cache
+F:\XTemp_183Q184Q\562.615_Cloud4Devs\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.TagHelpers.output.cache
+F:\XTemp_183Q184Q\562.615_Cloud4Devs\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorCoreGenerate.cache
+F:\XTemp_183Q184Q\562.615_Cloud4Devs\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\XTemp_183Q184Q\562.615_Cloud4Devs\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorTargetAssemblyInfo.cs
+F:\XTemp_183Q184Q\562.615_Cloud4Devs\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.Views.pdb
+F:\XTemp_183Q184Q\562.615_Cloud4Devs\Week02_Responses\WebApp_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.csproj.CopyComplete
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SignalR_EstimateCarValue\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.deps.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SignalR_EstimateCarValue\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.runtimeconfig.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SignalR_EstimateCarValue\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.runtimeconfig.dev.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SignalR_EstimateCarValue\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.dll
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SignalR_EstimateCarValue\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.pdb
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SignalR_EstimateCarValue\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.Views.dll
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SignalR_EstimateCarValue\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.Views.pdb
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SignalR_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.csprojAssemblyReference.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SignalR_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.csproj.CoreCompileInputs.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SignalR_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorAssemblyInfo.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SignalR_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorAssemblyInfo.cs
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SignalR_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.AssemblyInfoInputs.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SignalR_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.AssemblyInfo.cs
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SignalR_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.TagHelpers.input.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SignalR_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.TagHelpers.output.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SignalR_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorCoreGenerate.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SignalR_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SignalR_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorTargetAssemblyInfo.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SignalR_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorTargetAssemblyInfo.cs
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SignalR_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.Views.pdb
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SignalR_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.dll
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SignalR_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.pdb
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SignalR_EstimateCarValue\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.csproj.CopyComplete
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\Server_Test_SignalR\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.deps.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\Server_Test_SignalR\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.runtimeconfig.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\Server_Test_SignalR\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.runtimeconfig.dev.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\Server_Test_SignalR\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.dll
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\Server_Test_SignalR\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.pdb
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\Server_Test_SignalR\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.Views.dll
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\Server_Test_SignalR\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.Views.pdb
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\Server_Test_SignalR\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.csprojAssemblyReference.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\Server_Test_SignalR\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.csproj.CoreCompileInputs.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\Server_Test_SignalR\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorAssemblyInfo.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\Server_Test_SignalR\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorAssemblyInfo.cs
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\Server_Test_SignalR\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.AssemblyInfoInputs.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\Server_Test_SignalR\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.AssemblyInfo.cs
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\Server_Test_SignalR\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.TagHelpers.input.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\Server_Test_SignalR\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.TagHelpers.output.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\Server_Test_SignalR\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorCoreGenerate.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\Server_Test_SignalR\MVCManukauTech\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\Server_Test_SignalR\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorTargetAssemblyInfo.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\Server_Test_SignalR\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorTargetAssemblyInfo.cs
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\Server_Test_SignalR\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.Views.pdb
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\Server_Test_SignalR\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.dll
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\Server_Test_SignalR\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.pdb
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\Server_Test_SignalR\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.csproj.CopyComplete
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.deps.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.runtimeconfig.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.runtimeconfig.dev.json
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.dll
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.pdb
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.Views.dll
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\MVCManukauTech\bin\Debug\netcoreapp2.1\MVCManukauTech.Views.pdb
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.csprojAssemblyReference.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.csproj.CoreCompileInputs.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorAssemblyInfo.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorAssemblyInfo.cs
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.AssemblyInfoInputs.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.AssemblyInfo.cs
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.TagHelpers.input.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.TagHelpers.output.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorCoreGenerate.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\MVCManukauTech\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorTargetAssemblyInfo.cache
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.RazorTargetAssemblyInfo.cs
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.Views.pdb
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.dll
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.pdb
+D:\XTemp_183Q184Q\562.615_Cloud4Devs\Week05_Working\SaaS with_SignalR - Add CORS\MVCManukauTech\obj\Debug\netcoreapp2.1\MVCManukauTech.csproj.CopyComplete

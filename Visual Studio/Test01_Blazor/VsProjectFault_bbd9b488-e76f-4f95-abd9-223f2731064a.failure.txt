@@ -1,0 +1,469 @@
+=====================
+29/06/2018 11:46:40 AM
+LimitedFunctionality
+System.AggregateException: Project system data flow 'ProjectBuildSnapshotService Outer 16066' closed because of an exception: System.AggregateException: One or more errors occurred. ---> System.AggregateException: One or more errors occurred. ---> System.AggregateException: One or more errors occurred. ---> System.AggregateException: One or more errors occurred. ---> System.ArgumentNullException: Value cannot be null.
+Parameter name: lazyFactory
+   at Microsoft.Requires.NotNull[T](T value, String parameterName)
+   at Microsoft.VisualStudio.Composition.RuntimeExportProviderFactory.RuntimeExportProvider.GetValueForImportElement(RuntimePartLifecycleTracker importingPartTracker, RuntimeImport import, RuntimeExport export, Func`3 lazyFactory)
+   at Microsoft.VisualStudio.Composition.RuntimeExportProviderFactory.RuntimeExportProvider.GetValueForImportSite(RuntimePartLifecycleTracker importingPartTracker, RuntimeImport import)
+   at Microsoft.VisualStudio.Composition.RuntimeExportProviderFactory.RuntimeExportProvider.RuntimePartLifecycleTracker.SatisfyImports()
+   at Microsoft.VisualStudio.Composition.ExportProvider.PartLifecycleTracker.SatisfyImmediateImports()
+   at Microsoft.VisualStudio.Composition.ExportProvider.PartLifecycleTracker.MoveNext(PartLifecycleState nextState)
+   at Microsoft.VisualStudio.Composition.ExportProvider.PartLifecycleTracker.GetValueReadyToExpose()
+   at Microsoft.VisualStudio.Composition.RuntimeExportProviderFactory.RuntimeExportProvider.<>c__DisplayClass15_0.<GetExportedValueHelper>b__0()
+   at Microsoft.VisualStudio.Composition.DelegateServices.<>c__DisplayClass2_0`1.<As>b__0()
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.LazyInitValue()
+   at System.Lazy`1.get_Value()
+   at Microsoft.VisualStudio.ProjectSystem.Build.DesignTimeBuildManagerService.<BuildUsingDesignTimeBuildServiceAsync>d__55.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Build.DesignTimeBuildManagerService.<BuildAsync>d__53.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.ProjectBuildSnapshotService.<RunDesignTimeBuildAsync>d__74.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.ProjectBuildSnapshotService.<>c__DisplayClass72_0.<<UpdateSnapshotCoreAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.Threading.JoinableTask.<JoinAsync>d__78.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.Threading.JoinableTask`1.<JoinAsync>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.ProjectBuildSnapshotService.<UpdateSnapshotCoreAsync>d__72.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.CustomizableBlockSubscriberBase`3.<UpdateSnapshotAsync>d__34.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.CustomizableBlockSubscriberBase`3.<>c__DisplayClass32_0.<<Initialize>b__1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.Threading.JoinableTask.<JoinAsync>d__78.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.CustomizableBlockSubscriberBase`3.<<Initialize>b__32_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.DataflowExtensions.<>c__DisplayClass24_0`2.<<CreateSelfFilteringTransformBlock>b__0>d.MoveNext()
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+---> (Inner Exception #0) System.AggregateException: One or more errors occurred. ---> System.AggregateException: One or more errors occurred. ---> System.AggregateException: One or more errors occurred. ---> System.ArgumentNullException: Value cannot be null.
+Parameter name: lazyFactory
+   at Microsoft.Requires.NotNull[T](T value, String parameterName)
+   at Microsoft.VisualStudio.Composition.RuntimeExportProviderFactory.RuntimeExportProvider.GetValueForImportElement(RuntimePartLifecycleTracker importingPartTracker, RuntimeImport import, RuntimeExport export, Func`3 lazyFactory)
+   at Microsoft.VisualStudio.Composition.RuntimeExportProviderFactory.RuntimeExportProvider.GetValueForImportSite(RuntimePartLifecycleTracker importingPartTracker, RuntimeImport import)
+   at Microsoft.VisualStudio.Composition.RuntimeExportProviderFactory.RuntimeExportProvider.RuntimePartLifecycleTracker.SatisfyImports()
+   at Microsoft.VisualStudio.Composition.ExportProvider.PartLifecycleTracker.SatisfyImmediateImports()
+   at Microsoft.VisualStudio.Composition.ExportProvider.PartLifecycleTracker.MoveNext(PartLifecycleState nextState)
+   at Microsoft.VisualStudio.Composition.ExportProvider.PartLifecycleTracker.GetValueReadyToExpose()
+   at Microsoft.VisualStudio.Composition.RuntimeExportProviderFactory.RuntimeExportProvider.<>c__DisplayClass15_0.<GetExportedValueHelper>b__0()
+   at Microsoft.VisualStudio.Composition.DelegateServices.<>c__DisplayClass2_0`1.<As>b__0()
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.LazyInitValue()
+   at System.Lazy`1.get_Value()
+   at Microsoft.VisualStudio.ProjectSystem.Build.DesignTimeBuildManagerService.<BuildUsingDesignTimeBuildServiceAsync>d__55.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Build.DesignTimeBuildManagerService.<BuildAsync>d__53.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.ProjectBuildSnapshotService.<RunDesignTimeBuildAsync>d__74.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.ProjectBuildSnapshotService.<>c__DisplayClass72_0.<<UpdateSnapshotCoreAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.Threading.JoinableTask.<JoinAsync>d__78.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.Threading.JoinableTask`1.<JoinAsync>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.ProjectBuildSnapshotService.<UpdateSnapshotCoreAsync>d__72.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.CustomizableBlockSubscriberBase`3.<UpdateSnapshotAsync>d__34.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.CustomizableBlockSubscriberBase`3.<>c__DisplayClass32_0.<<Initialize>b__1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.Threading.JoinableTask.<JoinAsync>d__78.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.CustomizableBlockSubscriberBase`3.<<Initialize>b__32_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.DataflowExtensions.<>c__DisplayClass24_0`2.<<CreateSelfFilteringTransformBlock>b__0>d.MoveNext()
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+---> (Inner Exception #0) System.AggregateException: One or more errors occurred. ---> System.AggregateException: One or more errors occurred. ---> System.ArgumentNullException: Value cannot be null.
+Parameter name: lazyFactory
+   at Microsoft.Requires.NotNull[T](T value, String parameterName)
+   at Microsoft.VisualStudio.Composition.RuntimeExportProviderFactory.RuntimeExportProvider.GetValueForImportElement(RuntimePartLifecycleTracker importingPartTracker, RuntimeImport import, RuntimeExport export, Func`3 lazyFactory)
+   at Microsoft.VisualStudio.Composition.RuntimeExportProviderFactory.RuntimeExportProvider.GetValueForImportSite(RuntimePartLifecycleTracker importingPartTracker, RuntimeImport import)
+   at Microsoft.VisualStudio.Composition.RuntimeExportProviderFactory.RuntimeExportProvider.RuntimePartLifecycleTracker.SatisfyImports()
+   at Microsoft.VisualStudio.Composition.ExportProvider.PartLifecycleTracker.SatisfyImmediateImports()
+   at Microsoft.VisualStudio.Composition.ExportProvider.PartLifecycleTracker.MoveNext(PartLifecycleState nextState)
+   at Microsoft.VisualStudio.Composition.ExportProvider.PartLifecycleTracker.GetValueReadyToExpose()
+   at Microsoft.VisualStudio.Composition.RuntimeExportProviderFactory.RuntimeExportProvider.<>c__DisplayClass15_0.<GetExportedValueHelper>b__0()
+   at Microsoft.VisualStudio.Composition.DelegateServices.<>c__DisplayClass2_0`1.<As>b__0()
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.LazyInitValue()
+   at System.Lazy`1.get_Value()
+   at Microsoft.VisualStudio.ProjectSystem.Build.DesignTimeBuildManagerService.<BuildUsingDesignTimeBuildServiceAsync>d__55.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Build.DesignTimeBuildManagerService.<BuildAsync>d__53.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.ProjectBuildSnapshotService.<RunDesignTimeBuildAsync>d__74.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.ProjectBuildSnapshotService.<>c__DisplayClass72_0.<<UpdateSnapshotCoreAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.Threading.JoinableTask.<JoinAsync>d__78.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.Threading.JoinableTask`1.<JoinAsync>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.ProjectBuildSnapshotService.<UpdateSnapshotCoreAsync>d__72.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.CustomizableBlockSubscriberBase`3.<UpdateSnapshotAsync>d__34.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.CustomizableBlockSubscriberBase`3.<>c__DisplayClass32_0.<<Initialize>b__1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.Threading.JoinableTask.<JoinAsync>d__78.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.CustomizableBlockSubscriberBase`3.<<Initialize>b__32_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.DataflowExtensions.<>c__DisplayClass24_0`2.<<CreateSelfFilteringTransformBlock>b__0>d.MoveNext()
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+---> (Inner Exception #0) System.AggregateException: One or more errors occurred. ---> System.ArgumentNullException: Value cannot be null.
+Parameter name: lazyFactory
+   at Microsoft.Requires.NotNull[T](T value, String parameterName)
+   at Microsoft.VisualStudio.Composition.RuntimeExportProviderFactory.RuntimeExportProvider.GetValueForImportElement(RuntimePartLifecycleTracker importingPartTracker, RuntimeImport import, RuntimeExport export, Func`3 lazyFactory)
+   at Microsoft.VisualStudio.Composition.RuntimeExportProviderFactory.RuntimeExportProvider.GetValueForImportSite(RuntimePartLifecycleTracker importingPartTracker, RuntimeImport import)
+   at Microsoft.VisualStudio.Composition.RuntimeExportProviderFactory.RuntimeExportProvider.RuntimePartLifecycleTracker.SatisfyImports()
+   at Microsoft.VisualStudio.Composition.ExportProvider.PartLifecycleTracker.SatisfyImmediateImports()
+   at Microsoft.VisualStudio.Composition.ExportProvider.PartLifecycleTracker.MoveNext(PartLifecycleState nextState)
+   at Microsoft.VisualStudio.Composition.ExportProvider.PartLifecycleTracker.GetValueReadyToExpose()
+   at Microsoft.VisualStudio.Composition.RuntimeExportProviderFactory.RuntimeExportProvider.<>c__DisplayClass15_0.<GetExportedValueHelper>b__0()
+   at Microsoft.VisualStudio.Composition.DelegateServices.<>c__DisplayClass2_0`1.<As>b__0()
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.LazyInitValue()
+   at System.Lazy`1.get_Value()
+   at Microsoft.VisualStudio.ProjectSystem.Build.DesignTimeBuildManagerService.<BuildUsingDesignTimeBuildServiceAsync>d__55.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Build.DesignTimeBuildManagerService.<BuildAsync>d__53.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.ProjectBuildSnapshotService.<RunDesignTimeBuildAsync>d__74.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.ProjectBuildSnapshotService.<>c__DisplayClass72_0.<<UpdateSnapshotCoreAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.Threading.JoinableTask.<JoinAsync>d__78.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.Threading.JoinableTask`1.<JoinAsync>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.ProjectBuildSnapshotService.<UpdateSnapshotCoreAsync>d__72.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.CustomizableBlockSubscriberBase`3.<UpdateSnapshotAsync>d__34.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.CustomizableBlockSubscriberBase`3.<>c__DisplayClass32_0.<<Initialize>b__1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.Threading.JoinableTask.<JoinAsync>d__78.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.CustomizableBlockSubscriberBase`3.<<Initialize>b__32_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.DataflowExtensions.<>c__DisplayClass24_0`2.<<CreateSelfFilteringTransformBlock>b__0>d.MoveNext()
+   --- End of inner exception stack trace ---
+---> (Inner Exception #0) System.ArgumentNullException: Value cannot be null.
+Parameter name: lazyFactory
+   at Microsoft.Requires.NotNull[T](T value, String parameterName)
+   at Microsoft.VisualStudio.Composition.RuntimeExportProviderFactory.RuntimeExportProvider.GetValueForImportElement(RuntimePartLifecycleTracker importingPartTracker, RuntimeImport import, RuntimeExport export, Func`3 lazyFactory)
+   at Microsoft.VisualStudio.Composition.RuntimeExportProviderFactory.RuntimeExportProvider.GetValueForImportSite(RuntimePartLifecycleTracker importingPartTracker, RuntimeImport import)
+   at Microsoft.VisualStudio.Composition.RuntimeExportProviderFactory.RuntimeExportProvider.RuntimePartLifecycleTracker.SatisfyImports()
+   at Microsoft.VisualStudio.Composition.ExportProvider.PartLifecycleTracker.SatisfyImmediateImports()
+   at Microsoft.VisualStudio.Composition.ExportProvider.PartLifecycleTracker.MoveNext(PartLifecycleState nextState)
+   at Microsoft.VisualStudio.Composition.ExportProvider.PartLifecycleTracker.GetValueReadyToExpose()
+   at Microsoft.VisualStudio.Composition.RuntimeExportProviderFactory.RuntimeExportProvider.<>c__DisplayClass15_0.<GetExportedValueHelper>b__0()
+   at Microsoft.VisualStudio.Composition.DelegateServices.<>c__DisplayClass2_0`1.<As>b__0()
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.LazyInitValue()
+   at System.Lazy`1.get_Value()
+   at Microsoft.VisualStudio.ProjectSystem.Build.DesignTimeBuildManagerService.<BuildUsingDesignTimeBuildServiceAsync>d__55.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Build.DesignTimeBuildManagerService.<BuildAsync>d__53.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.ProjectBuildSnapshotService.<RunDesignTimeBuildAsync>d__74.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.ProjectBuildSnapshotService.<>c__DisplayClass72_0.<<UpdateSnapshotCoreAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.Threading.JoinableTask.<JoinAsync>d__78.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.Threading.JoinableTask`1.<JoinAsync>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.ProjectBuildSnapshotService.<UpdateSnapshotCoreAsync>d__72.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.CustomizableBlockSubscriberBase`3.<UpdateSnapshotAsync>d__34.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.CustomizableBlockSubscriberBase`3.<>c__DisplayClass32_0.<<Initialize>b__1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.Threading.JoinableTask.<JoinAsync>d__78.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.CustomizableBlockSubscriberBase`3.<<Initialize>b__32_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.DataflowExtensions.<>c__DisplayClass24_0`2.<<CreateSelfFilteringTransformBlock>b__0>d.MoveNext()<---
+<---
+<---
+<---
+ ---> System.ArgumentNullException: Value cannot be null.
+Parameter name: lazyFactory
+   at Microsoft.Requires.NotNull[T](T value, String parameterName)
+   at Microsoft.VisualStudio.Composition.RuntimeExportProviderFactory.RuntimeExportProvider.GetValueForImportElement(RuntimePartLifecycleTracker importingPartTracker, RuntimeImport import, RuntimeExport export, Func`3 lazyFactory)
+   at Microsoft.VisualStudio.Composition.RuntimeExportProviderFactory.RuntimeExportProvider.GetValueForImportSite(RuntimePartLifecycleTracker importingPartTracker, RuntimeImport import)
+   at Microsoft.VisualStudio.Composition.RuntimeExportProviderFactory.RuntimeExportProvider.RuntimePartLifecycleTracker.SatisfyImports()
+   at Microsoft.VisualStudio.Composition.ExportProvider.PartLifecycleTracker.SatisfyImmediateImports()
+   at Microsoft.VisualStudio.Composition.ExportProvider.PartLifecycleTracker.MoveNext(PartLifecycleState nextState)
+   at Microsoft.VisualStudio.Composition.ExportProvider.PartLifecycleTracker.GetValueReadyToExpose()
+   at Microsoft.VisualStudio.Composition.RuntimeExportProviderFactory.RuntimeExportProvider.<>c__DisplayClass15_0.<GetExportedValueHelper>b__0()
+   at Microsoft.VisualStudio.Composition.DelegateServices.<>c__DisplayClass2_0`1.<As>b__0()
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.LazyInitValue()
+   at System.Lazy`1.get_Value()
+   at Microsoft.VisualStudio.ProjectSystem.Build.DesignTimeBuildManagerService.<BuildUsingDesignTimeBuildServiceAsync>d__55.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Build.DesignTimeBuildManagerService.<BuildAsync>d__53.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.ProjectBuildSnapshotService.<RunDesignTimeBuildAsync>d__74.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.ProjectBuildSnapshotService.<>c__DisplayClass72_0.<<UpdateSnapshotCoreAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.Threading.JoinableTask.<JoinAsync>d__78.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.Threading.JoinableTask`1.<JoinAsync>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.ProjectBuildSnapshotService.<UpdateSnapshotCoreAsync>d__72.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.CustomizableBlockSubscriberBase`3.<UpdateSnapshotAsync>d__34.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.CustomizableBlockSubscriberBase`3.<>c__DisplayClass32_0.<<Initialize>b__1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.Threading.JoinableTask.<JoinAsync>d__78.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.CustomizableBlockSubscriberBase`3.<<Initialize>b__32_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.DataflowExtensions.<>c__DisplayClass24_0`2.<<CreateSelfFilteringTransformBlock>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.VisualStudio.ProjectSystem.CommonProjectSystemTools.Rethrow(Exception ex)
+   at Microsoft.VisualStudio.ProjectSystem.ProjectErrorReporting.<>c__DisplayClass6_0.<SubmitErrorReport>b__0()
+   at Microsoft.VisualStudio.ProjectSystem.ExceptionFilter.<>c__DisplayClass2_0.<Guard>b__0()
+   at GuardMethodClass.GuardMethod(Func`1 , Func`2 , Func`2 )
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.VisualStudio.Telemetry.WindowsErrorReporting.WatsonReport.GetClrWatsonExceptionInfo(Exception exceptionObject)
+   --- End of inner exception stack trace ---
+---> (Inner Exception #0) System.ArgumentNullException: Value cannot be null.
+Parameter name: lazyFactory
+   at Microsoft.Requires.NotNull[T](T value, String parameterName)
+   at Microsoft.VisualStudio.Composition.RuntimeExportProviderFactory.RuntimeExportProvider.GetValueForImportElement(RuntimePartLifecycleTracker importingPartTracker, RuntimeImport import, RuntimeExport export, Func`3 lazyFactory)
+   at Microsoft.VisualStudio.Composition.RuntimeExportProviderFactory.RuntimeExportProvider.GetValueForImportSite(RuntimePartLifecycleTracker importingPartTracker, RuntimeImport import)
+   at Microsoft.VisualStudio.Composition.RuntimeExportProviderFactory.RuntimeExportProvider.RuntimePartLifecycleTracker.SatisfyImports()
+   at Microsoft.VisualStudio.Composition.ExportProvider.PartLifecycleTracker.SatisfyImmediateImports()
+   at Microsoft.VisualStudio.Composition.ExportProvider.PartLifecycleTracker.MoveNext(PartLifecycleState nextState)
+   at Microsoft.VisualStudio.Composition.ExportProvider.PartLifecycleTracker.GetValueReadyToExpose()
+   at Microsoft.VisualStudio.Composition.RuntimeExportProviderFactory.RuntimeExportProvider.<>c__DisplayClass15_0.<GetExportedValueHelper>b__0()
+   at Microsoft.VisualStudio.Composition.DelegateServices.<>c__DisplayClass2_0`1.<As>b__0()
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.LazyInitValue()
+   at System.Lazy`1.get_Value()
+   at Microsoft.VisualStudio.ProjectSystem.Build.DesignTimeBuildManagerService.<BuildUsingDesignTimeBuildServiceAsync>d__55.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Build.DesignTimeBuildManagerService.<BuildAsync>d__53.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.ProjectBuildSnapshotService.<RunDesignTimeBuildAsync>d__74.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.ProjectBuildSnapshotService.<>c__DisplayClass72_0.<<UpdateSnapshotCoreAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.Threading.JoinableTask.<JoinAsync>d__78.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.Threading.JoinableTask`1.<JoinAsync>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.ProjectBuildSnapshotService.<UpdateSnapshotCoreAsync>d__72.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.CustomizableBlockSubscriberBase`3.<UpdateSnapshotAsync>d__34.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.CustomizableBlockSubscriberBase`3.<>c__DisplayClass32_0.<<Initialize>b__1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.Threading.JoinableTask.<JoinAsync>d__78.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.Designers.CustomizableBlockSubscriberBase`3.<<Initialize>b__32_0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.ProjectSystem.DataflowExtensions.<>c__DisplayClass24_0`2.<<CreateSelfFilteringTransformBlock>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.VisualStudio.ProjectSystem.CommonProjectSystemTools.Rethrow(Exception ex)
+   at Microsoft.VisualStudio.ProjectSystem.ProjectErrorReporting.<>c__DisplayClass6_0.<SubmitErrorReport>b__0()
+   at Microsoft.VisualStudio.ProjectSystem.ExceptionFilter.<>c__DisplayClass2_0.<Guard>b__0()
+   at GuardMethodClass.GuardMethod(Func`1 , Func`2 , Func`2 )
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.VisualStudio.Telemetry.WindowsErrorReporting.WatsonReport.GetClrWatsonExceptionInfo(Exception exceptionObject)<---
+
+===================

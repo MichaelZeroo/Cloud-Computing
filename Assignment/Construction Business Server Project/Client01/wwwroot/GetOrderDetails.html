@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>GetAllOrderDetails</title>
+    <link href="css/site.css" rel="stylesheet" />
+
+    <script>
+        //AJAX gets JSON which parses to a table  ref:
+        //https://www.w3schools.com/js/js_json_html.asp
+
+        var xmlhttp = new XMLHttpRequest();
+
+        //20180825 JPC Initialise event behaviours
+        window.onload = function () {
+
+            //setup AJAX
+            xmlhttp.onreadystatechange = function () {
+                ajaxCallback();
+            };
+
+            // GET GetAllProducts funtion from InventoryService
+            xmlhttp.open("GET", "https://localhost:44361/AccountingService/GetAllOrderDetails", true);
+            xmlhttp.send();
+        }
+
+        function ajaxCallback() {
+            if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                var messageObject = JSON.parse(xmlhttp.responseText);
+                var txt = "<table>";
+                txt += "<tr>";
+                //Extract the JSON keys as table headers
+                var keys = Object.keys(messageObject[0]);
+                for (var i = 0; i < keys.length; i++) {
+                    txt += "<th>" + keys[i] + "</th>";
+                }
+                txt += "</tr>";
+                for (var i = 0; i < messageObject.length; i++) {
+                    txt += "<tr>"
+                    //Note use of keys from above
+                    for (var j = 0; j < keys.length; j++) {
+                        if (j == 0) {
+                            txt += "<td><button onclick=\"window.location.replace('UpdateOrderDetails.html?uid=" + messageObject[i][keys[j]] + "')\">Edit</button></td>";
+                        } else {
+                            txt += "<td>" + messageObject[i][keys[j]] + "</td>";
+                        }
+                    }
+                    txt += "</tr>";
+                }
+                txt += "</table>";
+                document.getElementById("xdata").innerHTML = txt;
+            }
+        }
+    </script>
+
+
+</head>
+<body>
+    <div id="outerDiv">
+        <nav id="menu"></nav>
+
+        <h1>All Order Details Listed</h1>
+        <div id="xdata"></div>
+
+
+
+
+        <h1>This is a student project</h1>
+        <script src="js/site.js"></script>
+    </div>
+</body>
+</html>

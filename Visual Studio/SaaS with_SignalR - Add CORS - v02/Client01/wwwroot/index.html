@@ -1,0 +1,204 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Registration</title>
+    <meta content="javascript" name="vs_defaultClientScript">
+    <meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema">
+    <link href="Styles/Site.css" rel="stylesheet" type="text/css" />
+
+    <script src="js/signalr.min.js"></script>
+
+    <script type="text/javascript">
+        const connection = new signalR.HubConnectionBuilder().withUrl("https://localhost:44304/servicehub").build();
+
+        window.onload = function () {
+            try {
+                connection.start();
+                alert("Connection Started");
+            } catch (err) {
+                alert("Error on first connection: " + err.message);
+            }
+        }
+
+        //receive from server
+        connection.on("XSignal", function (response) {
+            receive(response);
+        });
+
+        //send to server
+        function send(request) {
+            alert("Sending ... " + request);
+            connection.invoke("FormCheck", request);
+        }
+
+        function receive(response) {
+            alert("Receiving ... " + response);
+        }
+
+    </script>
+
+    <script language='javascript' type='text/javascript'>
+        //function check(input) {
+        //    if (input.value != document.getElementById('txtPassword').value) {
+        //        input.setCustomValidity('Password Must be Matching.');
+        //    } else {
+        //        // input is valid -- reset the error message
+        //        input.setCustomValidity('');
+        //    }
+        //}
+
+        function xsubmit() {
+            window.setTimeout(xprocess, 20);
+            return false;
+        }
+
+        function xprocess() {
+            //special check that the passwords are the same
+            //if (document.getElementById("ReEnterPassword").value !== document.getElementById("Password").value) {
+            //    document.getElementById("ReEnterPassword").setCustomValidity("Password Must be Matching.");
+            //    //exit for user to try again
+            //    return;
+            //} else {
+            //    //TODO code here to clear the custom validity message set above
+            //}
+
+            //20180820 JPC Collect form data as JSON
+            //Note that this has potential to be reusable code that with some more work 
+            //could process a wide range of forms
+            var jsonObject = new Object();
+            //jsonObject["Test"] = "abcde";
+            var oeForm = document.getElementById("Form1");
+            var n = oeForm.elements.length;
+            for (var i = 0; i < n; i++) {
+                //skip the "submit" button as an element
+                if (oeForm.elements[i].type.toLowerCase() == "submit") continue;
+                jsonObject[oeForm.elements[i].name] = oeForm.elements[i].value;
+            }
+            send(JSON.stringify(jsonObject));
+            //block traditional form submit methods - code above has taken over
+            return false;
+        }
+
+
+    </script>
+
+
+</head>
+<body style="font-family:arial;background-color:#eaffff">
+    <div id="outerDiv" style="max-width:1160px;margin:auto;padding:5px;background-color:#ffffd0;min-height:95vh">
+        <!--120807 JPC  form element has metadata for communication with a web server. -->
+        <form method="post" action="" id="Form1" onsubmit="return xsubmit();">
+            <p id="pHeader" align="center" style="FONT-WEIGHT: bold; FONT-SIZE: 20pt; COLOR: navy">
+                New Member Registration
+            </p>
+            <p></p>
+            <p><span id="lblFeedback"><font size="4"></font></span></p>
+            <p><a href="EstimateValue.html">Link to Estimate House Value form </a></p>
+            
+            <!-- 120807 JPC - the new way for layout.  ul li for rows with CSS width of elements makes columns -->
+            <ul>
+                <li>
+                    <label class="colLeft">ID:</label>
+                    <div class="colRight">
+                        <span id="lblUsername"></span>
+                    </div>
+                </li>
+                <li>
+                    <label class="colLeft" id="lblFirstNames">First Names:</label>
+                    <div class="colRight">
+                        <input name="FirstNames" type="text" maxlength="50" id="FirstNames" autofocus required  />
+
+                    </div>
+                </li>
+                <li>
+                    <label class="colLeft" id="lblLastName">Last Name:</label>
+                    <div class="colRight">
+                        <input name="LastName" type="text" maxlength="50" id="LastName" required />
+
+                    </div>
+                </li>
+                <li>
+                    <label class="colLeft" id="lblPassword">Password:</label>
+                    <div class="colRight">
+                        <input name="Password" type="password" id="Password" required />
+
+                    </div>
+                </li>
+                <li>
+                    <label class="colLeft" id="lblReEnterPassword">Re-enter Password:</label>
+                    <div class="colRight">
+                        <input name="ReEnterPassword" type="password" id="ReEnterPassword" required />
+
+                    </div>
+                </li>
+                <li>
+                    <label class="colLeft" id="lblOrganisation">Organisation:</label>
+                    <div class="colRight">
+                        <input name="Organisation" type="text" maxlength="50" id="Organisation" />
+
+                    </div>
+                </li>
+                <li>
+                    <label class="colLeft" id="lblOrganisationType">Organisation Type:</label>
+                    <div class="colRight">
+                        <input name="OrganisationType" type="text" maxlength="50" id="OrganisationType"  />
+
+                    </div>
+                </li>
+                <li>
+                    <label class="colLeft" id="lblPhone">Phone:</label>
+                    <div class="colRight">
+                        <input name="Phone" type="tel" maxlength="50" id="Phone"  />
+
+                    </div>
+                </li>
+                <li>
+                    <label class="colLeft" id="lblEmail">E-Mail:</label>
+                    <div class="colRight">
+                        <input name="Email" type="text" maxlength="50" id="Email" />
+
+                    </div>
+                </li>
+                <li>
+                    <label class="colLeft" id="lblCity:">City:</label>
+                    <div class="colRight">
+                        <input name="City" type="text" maxlength="50" id="City" />&nbsp;(Optional)
+                    </div>
+                </li>
+                <li>
+                    <label class="colLeft" id="lblCountry">Country:</label>
+                    <div class="colRight">
+                        <input name="Country" type="text" maxlength="50" id="Country" />&nbsp;(Optional)
+                    </div>
+                </li>
+
+                <!-- 20180821 JPC note that submit button changes to ordinary button when we change from
+                    conventional form submission to SignalR -->
+                <li>
+                    <label class="colLeft" id="lblSubmit:">&nbsp;</label>
+                    <div class="colRight">
+                        <div id="lblRegisterConditions">In clicking on this Submit button, I agree to treat Members Area content as confidential.</div>
+                    </div>
+                </li>
+                <li>
+                    <label class="colLeft" id="lblSubmit:">&nbsp;</label>
+                    <div class="colRight">
+                        <input type="submit" value="Submit" />
+                    </div>
+                </li>
+
+                <li>
+                    <div style="clear:both">&nbsp;</div>
+                    <label class="colLeft" id="lblResponse">Response:</label>
+                    <div class="colRight">
+                        <div id="lblResponse"></div>
+                    </div>
+                </li>
+
+            </ul>
+
+        </form>
+    </div>
+</body>
+</html>
